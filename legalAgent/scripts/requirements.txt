@@ -1,0 +1,10 @@
+# PageIndex has no pyproject.toml — install its deps directly, then add repo to sys.path.
+# Setup:
+#   git clone https://github.com/VectifyAI/PageIndex /tmp/pageindex
+#   pip install -r scripts/requirements.txt
+
+litellm==1.82.0
+pymupdf==1.26.4
+PyPDF2==3.0.1
+python-dotenv==1.1.0
+pyyaml==6.0.2

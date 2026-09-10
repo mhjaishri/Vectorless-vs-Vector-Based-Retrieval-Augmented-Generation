@@ -1,0 +1,775 @@
+
+{
+  "doc_name": "bns.pdf",
+  "structure": [
+    {
+      "title": "THE BHARATIYA NYAYA SANHITA, 2023",
+      "start_index": 1,
+      "end_index": 1,
+      "nodes": [
+        {
+          "title": "PRELIMINARY",
+          "start_index": 1,
+          "end_index": 2,
+          "nodes": [
+            {
+              "title": "Short title, commencement and application.",
+              "start_index": 2,
+              "end_index": 2,
+              "node_id": "0002",
+              "summary": "The partial document outlines legal provisions regarding the liability for offenses committed within and beyond India. It states that every person is subject to punishment under the Sanhita for acts or omissions contrary to its provisions, regardless of where the act occurred, as long as it is punishable under Indian law. Specific provisions apply to Indian citizens committing offenses abroad, individuals on Indian-registered ships or aircraft, and those targeting computer resources in India from outside the country. The document also clarifies definitions of key terms such as \"act,\" \"animal,\" \"child,\" \"counterfeit,\" \"court,\" \"death,\" \"dishonestly,\" and \"document,\" providing a legal framework for understanding these concepts within the context of the law. Additionally, it notes that the Sanhita does not affect existing laws related to mutiny and desertion in the military."
+            },
+            {
+              "title": "Definitions.",
+              "start_index": 2,
+              "end_index": 8,
+              "node_id": "0003",
+              "summary": "The partial document outlines legal provisions regarding the liability and punishment for offenses under the Sanhita, applicable to individuals both within and outside India. Key points include:\n\n1. **Liability for Offenses**: Every person is liable for acts or omissions contrary to the Sanhita, regardless of whether the act occurred within India or abroad, with specific provisions for Indian citizens and offenses targeting Indian computer resources.\n\n2. **Definitions**: The document provides definitions for various terms such as \"act,\" \"child,\" \"document,\" \"fraudulently,\" and \"public servant,\" clarifying their meanings within the context of the law.\n\n3. **General Exceptions**: It emphasizes that definitions and penal provisions are subject to general exceptions, such as the incapacity of children under seven to commit offenses.\n\n4. **Punishments**: The document specifies the types of punishments applicable, including death, life imprisonment, various forms of imprisonment, forfeiture of property, fines, and community service, along with provisions for commutation of sentences by the appropriate government.\n\n5. **Imprisonment Terms**: It details how imprisonment terms are calculated, including the classification of imprisonment as rigorous or simple, and the conditions under which fines may be imposed or converted to imprisonment for non-payment.\n\nOverall, the document serves as a legal framework for defining offenses, establishing liability, and outlining punishments under the Sanhita."
+            }
+          ],
+          "node_id": "0001",
+          "summary": "The partial document outlines the Bharatiya Nyaya Sanhita, 2023, an Act enacted by the Parliament of India to consolidate and amend provisions related to offences. It includes the Act's title, commencement, and application, stating that it will come into force on a date appointed by the Central Government. The document specifies the liability for offences committed within India and extends this liability to Indian citizens committing offences abroad, as well as to acts targeting Indian computer resources from outside the country. It also defines key terms such as \"act,\" \"animal,\" \"child,\" \"counterfeit,\" \"court,\" \"death,\" \"dishonestly,\" and \"document,\" providing clarity on their meanings within the context of the Act. Additionally, it notes that the provisions do not affect existing laws related to military personnel."
+        },
+        {
+          "title": "OF PUNISHMENTS",
+          "start_index": 8,
+          "end_index": 8,
+          "nodes": [
+            {
+              "title": "Punishments.",
+              "start_index": 8,
+              "end_index": 8,
+              "node_id": "0005",
+              "summary": "The partial document outlines legal provisions regarding punishments for offenders under the Bharatiya Nagarik Suraksha Sanhita, 2023. It specifies various types of punishments, including death, life imprisonment, rigorous and simple imprisonment, forfeiture of property, fines, and community service. The document also discusses the authority of the appropriate government to commute sentences without the offender's consent, detailing the roles of the Central and State Governments in this process. Additionally, it addresses the calculation of imprisonment terms, stating that life imprisonment is equivalent to twenty years unless specified otherwise. The document further explains the court's discretion in determining the nature of imprisonment (rigorous or simple) and outlines the conditions under which fines may be imposed, including the consequences of non-payment, which may result in additional imprisonment."
+            },
+            {
+              "title": "Commutation of sentence.",
+              "start_index": 8,
+              "end_index": 8,
+              "node_id": "0006",
+              "summary": "The partial document outlines legal provisions regarding punishments for offenders under the Bharatiya Nagarik Suraksha Sanhita, 2023. It specifies various types of punishments, including death, life imprisonment, rigorous and simple imprisonment, forfeiture of property, fines, and community service. The document also discusses the authority of the appropriate government to commute sentences without the offender's consent, detailing the roles of the Central and State Governments in this process. Additionally, it addresses the calculation of imprisonment terms, stating that life imprisonment is equivalent to twenty years unless specified otherwise. The document further explains the court's discretion in determining the nature of imprisonment (rigorous or simple) and outlines the conditions under which fines may be imposed, including the consequences of non-payment, which may result in additional imprisonment."
+            },
+            {
+              "title": "Fractions of terms of punishment.",
+              "start_index": 8,
+              "end_index": 8,
+              "node_id": "0007",
+              "summary": "The partial document outlines legal provisions regarding punishments for offenders under the Bharatiya Nagarik Suraksha Sanhita, 2023. It specifies various types of punishments, including death, life imprisonment, rigorous and simple imprisonment, forfeiture of property, fines, and community service. The document also discusses the authority of the appropriate government to commute sentences without the offender's consent, detailing the roles of both the Central and State Governments in this process. Additionally, it addresses the calculation of imprisonment terms, stating that life imprisonment is equivalent to twenty years unless specified otherwise. The document further explains the court's discretion in determining the nature of imprisonment (rigorous or simple) and outlines the conditions under which fines may be imposed, including the possibility of additional imprisonment for non-payment of fines."
+            },
+            {
+              "title": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.",
+              "start_index": 8,
+              "end_index": 8,
+              "node_id": "0008",
+              "summary": "The partial document outlines legal provisions regarding punishments for offenders under the Bharatiya Nagarik Suraksha Sanhita, 2023. It specifies various types of punishments, including death, life imprisonment, rigorous and simple imprisonment, forfeiture of property, fines, and community service. The document also discusses the authority of the appropriate government to commute sentences without the offender's consent, detailing the roles of both the Central and State Governments in this process. Additionally, it addresses the calculation of imprisonment terms, stating that life imprisonment is equivalent to twenty years unless specified otherwise. The document further explains the court's discretion in determining the nature of imprisonment (rigorous or simple) and outlines the conditions under which fines may be imposed, including the possibility of additional imprisonment for non-payment of fines."
+            },
+            {
+              "title": "Amount of fine, liability in default of payment of fine, etc.",
+              "start_index": 8,
+              "end_index": 10,
+              "node_id": "0009",
+              "summary": "The partial document outlines legal provisions regarding punishments for offenders under the Bharatiya Nagarik Suraksha Sanhita, 2023. It details various types of punishments, including death, life imprisonment, rigorous and simple imprisonment, forfeiture of property, fines, and community service. The document specifies the authority of the appropriate government to commute sentences and provides guidelines for calculating terms of imprisonment, including the treatment of life sentences as equivalent to twenty years. It discusses the imposition of fines, the consequences of non-payment, and the limits on punishment for offenses that consist of multiple parts. Additionally, it addresses solitary confinement conditions and enhanced punishments for repeat offenders. The document also includes general exceptions to offenses, particularly regarding actions taken under a mistaken belief of legal obligation."
+            }
+          ],
+          "node_id": "0004",
+          "summary": "The partial document outlines legal provisions regarding punishments for offenders under the Bharatiya Nagarik Suraksha Sanhita, 2023. It specifies various types of punishments, including death, life imprisonment, rigorous and simple imprisonment, forfeiture of property, fines, and community service. The document also discusses the authority of the appropriate government to commute sentences without the offender's consent, detailing the roles of the Central and State Governments in this process. Additionally, it addresses the calculation of imprisonment terms, stating that life imprisonment is equivalent to twenty years unless specified otherwise. The document further explains the court's discretion in determining the nature of imprisonment (rigorous or simple) and outlines the conditions under which fines may be imposed, including the consequences of non-payment, which may result in additional imprisonment."
+        },
+        {
+          "title": "GENERAL EXCEPTIONS",
+          "start_index": 10,
+          "end_index": 11,
+          "nodes": [
+            {
+              "title": "Act done by a person bound, or by mistake of fact believing himself bound, by law.",
+              "start_index": 11,
+              "end_index": 10,
+              "node_id": "0011",
+              "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications, providing a comprehensive overview of the subject matter. The document likely aims to inform or persuade the reader by presenting a structured analysis and supporting details."
+            },
+            {
+              "title": "Act of Judge when acting judicially.",
+              "start_index": 10,
+              "end_index": 10,
+              "node_id": "0012",
+              "summary": "The partial document outlines legal principles regarding the punishment of offenders in cases involving multiple offences. It specifies that when several acts combine to form a different offence, the offender cannot receive a harsher punishment than what could be awarded for any single offence. It provides illustrations to clarify this point, such as the example of a person causing harm to another and the implications of intervening actions. The document also discusses the conditions under which solitary confinement may be imposed, detailing the maximum durations based on the length of imprisonment. Additionally, it addresses the consequences of repeat offences, stipulating that individuals convicted of certain serious offences may face life imprisonment or extended terms for subsequent violations. Lastly, it includes a general exception stating that actions taken under a mistaken belief of legal obligation do not constitute an offence."
+            },
+            {
+              "title": "Act done pursuant to judgment or order of Court.",
+              "start_index": 10,
+              "end_index": 10,
+              "node_id": "0013",
+              "summary": "The partial document outlines legal principles regarding the punishment of offenders in cases involving multiple offences. It specifies that when several acts combine to form a different offence, the offender cannot receive a harsher punishment than what could be awarded for any single offence. It provides illustrations to clarify this point, such as the example of a person causing harm to another and the implications of intervening actions. The document also discusses the conditions under which solitary confinement may be imposed, detailing the maximum durations allowed based on the length of imprisonment. Additionally, it addresses the consequences for repeat offenders convicted of serious crimes, stipulating that subsequent offences can lead to life imprisonment or significant terms of imprisonment. Lastly, it introduces a general exception where actions taken under a mistaken belief of legal obligation do not constitute an offence, illustrated by a soldier acting under orders."
+            },
+            {
+              "title": "Act done by a person justified, or by mistake of fact believing himself justified, by law.",
+              "start_index": 10,
+              "end_index": 10,
+              "node_id": "0014",
+              "summary": "The partial document outlines legal principles regarding the punishment of offenders in cases involving multiple offences. It specifies that when several acts combine to form a different offence, the offender cannot receive a harsher punishment than what could be awarded for any single offence. It provides illustrations to clarify this point, such as the example of a person causing harm to another and the implications of intervening actions. The document also discusses the conditions under which solitary confinement may be imposed, detailing the maximum durations based on the length of imprisonment. Additionally, it addresses the consequences of repeat offences, stipulating that individuals convicted of certain serious offences may face life imprisonment or extended terms for subsequent violations. Lastly, it introduces general exceptions to liability, indicating that actions taken under a mistaken belief of legal obligation do not constitute an offence."
+            },
+            {
+              "title": "Accident in doing a lawful act.",
+              "start_index": 10,
+              "end_index": 10,
+              "node_id": "0015",
+              "summary": "The partial document outlines legal principles regarding the punishment of offenders in cases involving multiple offences. It specifies that when several acts combine to form a different offence, the offender cannot receive a harsher punishment than what could be awarded for any single offence. It provides illustrations to clarify this point, such as the example of a person causing harm to another and the implications of intervening actions. The document also discusses the conditions under which solitary confinement may be imposed, detailing the maximum durations based on the length of imprisonment. Additionally, it addresses the consequences of repeat offences, stipulating that individuals convicted of certain serious offences may face life imprisonment or extended terms for subsequent violations. Lastly, it introduces a general exception stating that actions taken under a mistaken belief of legal obligation do not constitute an offence, illustrated by a soldier acting under orders."
+            },
+            {
+              "title": "Act likely to cause harm, but done without criminal intent, and to prevent other harm.",
+              "start_index": 10,
+              "end_index": 12,
+              "node_id": "0016",
+              "summary": "The partial document outlines legal principles regarding the punishment for multiple offences, the conditions under which solitary confinement may be imposed, and various general exceptions to criminal liability. Key points include:\n\n1. **Combination of Offences**: When multiple acts constitute different offences, the offender cannot receive a harsher punishment than what could be awarded for any single offence.\n2. **Solitary Confinement**: Guidelines are provided for the duration and conditions of solitary confinement, including limits based on the length of imprisonment.\n3. **Enhanced Punishment for Repeat Offenders**: Individuals convicted of certain serious offences may face life imprisonment or up to ten years for subsequent similar offences.\n4. **General Exceptions**: Several scenarios are described where actions are not considered offences, including:\n   - Acts performed under a mistaken belief of legal obligation.\n   - Actions taken by judges in the course of their judicial duties.\n   - Acts done in good faith to prevent harm or in response to emergencies.\n   - Conduct by children under seven or those deemed incapable of understanding their actions due to mental unsoundness or intoxication.\n   - Actions taken with consent that do not intend to cause death or grievous harm.\n\nThese points collectively address the legal framework for determining liability and punishment in various circumstances."
+            },
+            {
+              "title": "Act of a child above seven and under twelve years of age of immature understanding.",
+              "start_index": 12,
+              "end_index": 12,
+              "node_id": "0017",
+              "summary": "The partial document outlines various legal exceptions regarding criminal responsibility, particularly focusing on individuals who may not be held accountable for their actions due to age, mental state, or consent. Key points include: \n\n1. Children under seven years of age are not considered capable of committing an offence.\n2. Children between seven and twelve years may be exempt if they lack sufficient maturity to understand their actions.\n3. Individuals deemed to have an unsound mind at the time of the act are not liable if they cannot comprehend the nature of their actions.\n4. Intoxicated individuals are not accountable if they were unknowingly intoxicated, but if they were intoxicated voluntarily, they may still be liable for actions requiring specific intent.\n5. Acts that do not intend to cause death or grievous harm and are done with the consent of the affected person are not considered offences.\n6. Good faith actions for the benefit of individuals under twelve or those of unsound mind, with appropriate consent, are also exempt from being classified as offences, with specific exceptions for actions intending to cause death or serious harm. \n\nIllustrations are provided to clarify these points, demonstrating scenarios where consent and good faith play crucial roles in determining the legality of actions."
+            },
+            {
+              "title": "Act of a person of unsound mind.",
+              "start_index": 12,
+              "end_index": 12,
+              "node_id": "0018",
+              "summary": "The partial document outlines various legal exceptions regarding criminal responsibility, particularly focusing on individuals who may not be held accountable for their actions due to age, mental capacity, or intoxication. Key points include: \n\n1. Children under seven years of age are not considered capable of committing an offence.\n2. Children aged between seven and twelve may be exempt if they lack sufficient maturity to understand their actions.\n3. Individuals with unsound mind at the time of the act are not liable if they cannot comprehend the nature of their actions or their wrongfulness.\n4. Intoxicated individuals may also be exempt from liability if they were unaware of the intoxication or if it was involuntarily induced.\n5. In cases requiring specific intent or knowledge, intoxicated individuals are treated as if they possess the knowledge they would have had if sober, unless intoxication was involuntary.\n6. Acts not intended to cause death or grievous harm may not be considered offences if done with the consent of the harmed party, particularly for individuals over eighteen.\n7. Medical professionals performing procedures with the consent of the patient, even if there is a risk of harm, are not committing an offence if done in good faith for the patient's benefit.\n8. Actions taken in good faith for the benefit of minors or individuals with unsound mind, with appropriate consent, are generally exempt from being classified as offences, with specific exceptions for intentional harm."
+            },
+            {
+              "title": "Act of a person incapable of judgment by reason of intoxication caused against his will.",
+              "start_index": 12,
+              "end_index": 12,
+              "node_id": "0019",
+              "summary": "The partial document outlines various legal exceptions regarding criminal responsibility, particularly focusing on individuals who may not be held accountable for their actions due to age, mental capacity, or intoxication. Key points include: \n\n1. Children under seven years of age are not considered capable of committing an offence.\n2. Children aged between seven and twelve may be exempt if they lack sufficient maturity to understand their actions.\n3. Individuals deemed to have unsound mind at the time of the act are not liable if they cannot comprehend the nature of their actions or their wrongfulness.\n4. Intoxicated individuals may also be exempt from liability if they were unaware of their intoxication, but if they were intoxicated voluntarily, they may still be held accountable for actions requiring specific intent or knowledge.\n5. Acts that do not intend to cause death or grievous harm and are done with the consent of the affected person are not considered offences.\n6. Specific provisions are made for actions taken in good faith for the benefit of individuals under twelve or those of unsound mind, provided they do not involve intentional harm or death. \n\nIllustrations are provided to clarify these exceptions, emphasizing consent and the context of the actions."
+            },
+            {
+              "title": "Offence not intended to cause death, done by consent in good faith for person's benefit.",
+              "start_index": 12,
+              "end_index": 12,
+              "node_id": "0020",
+              "summary": "The partial document outlines various legal exceptions regarding criminal responsibility, particularly focusing on individuals who may not be held accountable for their actions due to age, mental state, or consent. Key points include: \n\n1. Children under seven years of age are not considered capable of committing an offence.\n2. Children between seven and twelve years may be exempt if they lack sufficient maturity to understand their actions.\n3. Individuals deemed to have an unsound mind at the time of the act are not liable if they cannot comprehend the nature of their actions.\n4. Intoxicated individuals are not accountable if they were unknowingly intoxicated, but if they were intoxicated voluntarily, they may still be liable for actions requiring specific intent.\n5. Acts that do not intend to cause death or grievous harm and are done with the consent of the affected person are not considered offences.\n6. Good faith actions for the benefit of individuals under twelve or those of unsound mind, with appropriate consent, are also exempt from being classified as offences, with specific exceptions for actions intending to cause death or serious harm. \n\nIllustrations are provided to clarify these points, demonstrating scenarios where consent and good faith play crucial roles in determining the legality of actions."
+            },
+            {
+              "title": "Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.",
+              "start_index": 12,
+              "end_index": 23,
+              "node_id": "0021",
+              "summary": "The partial document outlines various legal provisions regarding the concept of offences and exceptions related to criminal liability. Key points include:\n\n1. **Age and Mental Capacity**: Children under seven years are not considered capable of committing an offence. Children aged seven to twelve may be exempt if they lack sufficient maturity to understand their actions. Similarly, individuals with unsound mind or those intoxicated against their will are not liable for offences if they cannot comprehend the nature of their actions.\n\n2. **Consent and Harm**: Acts that do not intend to cause death or grievous harm may not be considered offences if the harmed party, who is over eighteen, has given consent. This includes situations where harm is caused during consensual activities, such as sports or medical procedures performed in good faith.\n\n3. **Good Faith Exceptions**: Actions taken in good faith for the benefit of individuals under twelve or those of unsound mind, with appropriate consent, are not offences unless they involve intentional harm or death.\n\n4. **Private Defence**: The document elaborates on the right to private defence, allowing individuals to protect themselves or others from harm, with specific conditions under which this right can be exercised, including the use of necessary force.\n\n5. **Abetment and Conspiracy**: It defines abetment, stating that instigating or aiding in the commission of an offence constitutes abetment. It also discusses criminal conspiracy, where an agreement to commit an illegal act can lead to liability even if the act is not completed.\n\n6. **Attempt**: The document addresses the punishment for attempts to commit offences, indicating that actions taken towards committing an offence can result in liability.\n\n7. **Sexual Offences**: It includes a definition of rape, outlining various circumstances under which consent is invalid, and specifies the punishment for committing rape.\n\nOverall, the document establishes a framework for understanding criminal liability, consent, and the rights of individuals in various contexts, particularly concerning minors and individuals unable to consent."
+            }
+          ],
+          "node_id": "0010",
+          "summary": "The partial document outlines legal principles regarding the punishment for multiple offences, the limits of solitary confinement, and general exceptions to criminal liability. It specifies that when several acts combine to form a different offence, the punishment cannot exceed that for any single offence. It provides examples illustrating how a person may be punished for a single act of violence rather than for each individual blow. The document also details the conditions under which solitary confinement may be imposed, including maximum durations based on the length of imprisonment. Additionally, it discusses enhanced punishments for repeat offenders and outlines circumstances under which actions may not be considered offences, such as when performed under a legal obligation, in good faith belief of legal justification, or as a result of accident or misfortune."
+        },
+        {
+          "title": "OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT",
+          "start_index": 23,
+          "end_index": 18,
+          "nodes": [
+            {
+              "title": "Abetment of a thing.",
+              "start_index": 18,
+              "end_index": 18,
+              "node_id": "0023",
+              "summary": "The partial document discusses the legal concept of abetment, outlining various scenarios in which a person (A) can be held liable for abetting an offence committed by another person (B), even if B is incapable of committing the offence due to age or mental state. It provides specific illustrations to clarify the principles of abetment, including cases where A instigates B to commit acts resulting in harm or theft, and the legal consequences for A regardless of B's capacity to commit an offence. The document also explains that abetment can occur in the context of conspiracy, where the abettor does not need to directly conspire with the person committing the offence. Additionally, it addresses the jurisdictional aspects of abetment, stating that a person can be guilty of abetting an offence committed outside India if it would constitute an offence if committed within India, and vice versa."
+            },
+            {
+              "title": "Abettor.",
+              "start_index": 18,
+              "end_index": 22,
+              "node_id": "0024",
+              "summary": "The partial document outlines various legal principles regarding abetment of offenses, detailing the liability of individuals who instigate or encourage others to commit crimes. Key points include:\n\n1. **Guilty Intent and Abetment**: Individuals can be held liable for abetting an offense even if the person they instigate is incapable of committing the crime (e.g., a child or a person of unsound mind).\n\n2. **Consequences of Abetment**: If the act abetted is committed, the abettor faces the same punishment as if they had committed the offense themselves, regardless of the abetted person's legal capacity.\n\n3. **Cumulative Liability**: An abettor can be punished for both the act they intended to abet and any unintended consequences that arise from that act, provided those consequences were a probable result of the abetment.\n\n4. **Conspiracy and Abetment**: Engaging in a conspiracy to commit an offense can also result in liability for abetment, even if the conspirators do not directly collaborate in the execution of the crime.\n\n5. **International Abetment**: The document specifies that abetting an offense committed outside India can still result in liability under Indian law, and vice versa.\n\n6. **Punishments for Abetment**: The document outlines specific punishments for various scenarios of abetment, including cases where the abetted act does not occur, and the penalties vary based on the severity of the intended crime.\n\n7. **Public Servants and Concealment**: Special provisions are made for public servants who conceal information regarding offenses they are duty-bound to prevent, with specific penalties outlined for such actions.\n\n8. **Criminal Conspiracy**: The document defines criminal conspiracy and the associated penalties for individuals involved in such agreements, emphasizing that mere agreement is insufficient without some act in furtherance of the conspiracy.\n\n9. **Attempt to Commit Offenses**: It also addresses the legal implications of attempting to commit an offense, detailing the punishments applicable for such attempts.\n\nOverall, the document provides a comprehensive framework for understanding the legal ramifications of abetment, conspiracy, and attempts to commit crimes under Indian law."
+            }
+          ],
+          "node_id": "0022",
+          "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications, providing a comprehensive overview of the subject matter. The document likely aims to inform or persuade the reader by presenting a structured analysis and supporting details."
+        },
+        {
+          "title": "OF OFFENCES AGAINST WOMAN AND CHILD",
+          "start_index": 22,
+          "end_index": 22,
+          "nodes": [
+            {
+              "title": "Of sexual offences.",
+              "start_index": 22,
+              "end_index": 23,
+              "node_id": "0026",
+              "summary": "The partial document outlines legal provisions regarding various criminal offenses, including the concealment of a design to commit an offense, criminal conspiracy, attempts to commit offenses, and definitions and punishments related to rape. Key points include:\n\n1. **Concealment of Design**: Individuals who intentionally conceal the existence of a design to commit an offense can face imprisonment or fines, depending on whether the offense is committed or not.\n\n2. **Criminal Conspiracy**: An agreement between two or more persons to commit an illegal act or to use illegal means for a legal act constitutes a criminal conspiracy. Punishments vary based on the severity of the offense involved.\n\n3. **Attempt to Commit Offenses**: Individuals attempting to commit an offense can be punished with imprisonment or fines, with specific terms outlined based on the nature of the offense.\n\n4. **Definition of Rape**: The document provides a detailed definition of rape, including various circumstances under which it is considered to occur, such as lack of consent or coercion.\n\n5. **Punishment for Rape**: The punishment for committing rape is specified as rigorous imprisonment for a minimum of ten years, potentially extending to life imprisonment, along with fines. Exceptions are noted for certain circumstances, such as marital relations and medical procedures."
+            },
+            {
+              "title": "Rape.",
+              "start_index": 23,
+              "end_index": 24,
+              "nodes": [
+                {
+                  "title": "Punishment for rape.",
+                  "start_index": 24,
+                  "end_index": 25,
+                  "node_id": "0028",
+                  "summary": "The partial document outlines various legal provisions regarding the punishment for rape and sexual offenses, particularly focusing on specific circumstances that aggravate the crime. It details the conditions under which a police officer, public servant, armed forces member, or staff of custodial institutions can be held accountable for committing rape, especially when the victim is in their custody or under their authority. The document specifies severe penalties, including rigorous imprisonment ranging from ten years to life, and in cases involving minors, even the death penalty may apply. It also addresses sexual intercourse without consent by a husband towards a separated wife and outlines punishments for individuals in positions of authority who exploit their status to engage in sexual acts. The text emphasizes the need for just and reasonable fines to cover the medical expenses and rehabilitation of victims."
+                },
+                {
+                  "title": "Punishment for rape of a woman under sixteen years of age.",
+                  "start_index": 25,
+                  "end_index": 26,
+                  "node_id": "0029",
+                  "summary": "The partial document outlines various legal provisions related to sexual offenses, particularly focusing on the punishment for rape and related crimes. Key points include:\n\n1. **Punishment for Rape of Minors**: Severe penalties are established for individuals who commit rape against women under the age of sixteen and twelve, including rigorous imprisonment for a minimum of twenty years, potential life imprisonment, and fines aimed at covering the victim's medical expenses and rehabilitation.\n\n2. **Consequences of Causing Death or Vegetative State**: Offenders who inflict injuries resulting in the death of the victim or a persistent vegetative state face similar severe penalties, including life imprisonment or death.\n\n3. **Marital Rape**: The document addresses sexual intercourse without consent by a husband towards a wife living separately, stipulating imprisonment of two to seven years and fines.\n\n4. **Abuse of Authority**: Individuals in positions of authority or fiduciary relationships who induce women under their care to engage in sexual intercourse without it constituting rape face imprisonment of five to ten years and fines.\n\n5. **Deceitful Sexual Intercourse**: Engaging in sexual intercourse with a woman under false pretenses, such as promises of marriage, is punishable by up to ten years of imprisonment and fines.\n\n6. **Gang Rape**: Individuals involved in gang rape face severe penalties, including life imprisonment or death, especially if the victim is under eighteen.\n\n7. **Repeat Offenders**: Those previously convicted of sexual offenses face life imprisonment or death upon subsequent convictions.\n\n8. **Protection of Victim Identity**: There are strict regulations against disclosing the identity of victims of sexual offenses, with specific exceptions for authorized disclosures.\n\nOverall, the document emphasizes stringent punishments for sexual crimes, particularly against minors, and includes provisions for protecting the identity of victims."
+                },
+                {
+                  "title": "Punishment for causing death or resulting in persistent vegetative state of victim.",
+                  "start_index": 26,
+                  "end_index": 27,
+                  "node_id": "0030",
+                  "summary": "The partial document outlines various legal provisions related to sexual offenses and the protection of women. Key points include:\n\n1. Definitions of \"hospital\" and \"women's or children's institution\" as per existing legal clauses.\n2. Punishment for deceitful sexual intercourse, including a maximum of ten years imprisonment and fines.\n3. Severe penalties for gang rape, with a minimum of twenty years imprisonment, extending to life imprisonment or death for rapes involving minors.\n4. Enhanced punishment for repeat offenders of specified sexual offenses, including life imprisonment or death.\n5. Restrictions on the disclosure of a victim's identity in cases of sexual offenses, with penalties for unauthorized publication.\n6. Legal consequences for assault or criminal force against women, with specific terms of imprisonment and fines.\n7. Definition and penalties for sexual harassment, including various forms of unwelcome sexual advances and demands.\n8. Specific provisions against acts intended to disrobe a woman, with significant imprisonment terms.\n9. Legal repercussions for voyeurism, including penalties for capturing or disseminating images of women in private acts.\n10. Regulations regarding the publication of court proceedings related to sexual offenses, requiring prior permission from the court."
+                },
+                {
+                  "title": "Sexual intercourse by husband upon his wife during separation.",
+                  "start_index": 27,
+                  "end_index": 28,
+                  "node_id": "0031",
+                  "summary": "The partial document outlines various legal provisions related to offenses against women, including definitions and penalties for crimes such as assault, sexual harassment, voyeurism, stalking, dowry death, and deceitful cohabitation. It specifies the conditions under which these offenses occur, the intent required for prosecution, and the corresponding punishments, which range from fines to imprisonment for varying durations. The document also clarifies the legal definitions of terms like \"recognised welfare institution,\" \"private act,\" and \"dowry,\" and includes exceptions to certain offenses. Overall, it emphasizes the legal framework aimed at protecting women's rights and dignity."
+                },
+                {
+                  "title": "Sexual intercourse by a person in authority.",
+                  "start_index": 28,
+                  "end_index": 29,
+                  "node_id": "0032",
+                  "summary": "The partial document outlines various legal provisions related to offenses against women, including the unauthorized dissemination of images, stalking, and acts intended to insult a woman's modesty. It defines stalking and specifies the conditions under which it is considered an offense, along with the penalties for such actions. The document also addresses dowry deaths, detailing the circumstances under which a woman's death may be classified as such and the associated penalties. Additionally, it covers offenses related to marriage, including deceitful practices regarding marital status, bigamy, and the consequences of coercing or enticing a woman into illicit relationships. The document further defines cruelty towards women and outlines penalties for kidnapping or abducting women with the intent to force marriage or illicit intercourse, as well as the legal ramifications of causing miscarriage."
+                },
+                {
+                  "title": "Sexual intercourse by employing deceitful means, etc.",
+                  "start_index": 29,
+                  "end_index": 30,
+                  "node_id": "0033",
+                  "summary": "The partial document outlines various legal provisions related to marriage, cruelty, and offenses against women and children. Key points include:\n\n1. **Subsequent Marriage**: It addresses the conditions under which a person can contract a subsequent marriage if their former spouse has not been heard from for seven years, and the penalties for concealing a prior marriage.\n\n2. **Fraudulent Marriage**: It specifies penalties for individuals who go through a marriage ceremony knowing they are not lawfully married.\n\n3. **Enticement and Cruelty**: The document details punishments for enticing a married woman for illicit purposes and for husbands or relatives who subject women to cruelty, defining \"cruelty\" in terms of actions that could lead to severe harm or coercion.\n\n4. **Kidnapping and Abduction**: It outlines offenses related to kidnapping or abducting women with the intent to force them into marriage or illicit intercourse, along with corresponding penalties.\n\n5. **Causing Miscarriage**: The text includes provisions for punishing those who cause a woman to miscarry without her consent, with varying penalties based on the circumstances.\n\n6. **Offenses Against Children**: It addresses the abandonment of children, concealment of birth, and the exploitation of children for criminal activities, including severe penalties for such actions.\n\nOverall, the document emphasizes the legal repercussions for various forms of marital fraud, violence against women, and crimes against children."
+                },
+                {
+                  "title": "Gang rape.",
+                  "start_index": 30,
+                  "end_index": 31,
+                  "node_id": "0034",
+                  "summary": "The partial document outlines various legal provisions related to offenses against women and children, particularly focusing on acts that cause harm or death to pregnant women and children. Key points include:\n\n1. **Punishment for Causing Miscarriage**: Offenses committed without a woman's consent, leading to miscarriage or death, are punishable with life imprisonment or up to ten years of imprisonment and fines.\n\n2. **Acts Leading to Death of Pregnant Women**: Individuals causing the death of a pregnant woman with the intent to induce miscarriage face severe penalties, including life imprisonment if done without consent.\n\n3. **Prevention of Child Birth**: Actions intended to prevent a child from being born alive or causing its death after birth are punishable by imprisonment for up to ten years.\n\n4. **Culpable Homicide Related to Unborn Children**: Causing the death of a quick unborn child through acts that would constitute culpable homicide is also punishable.\n\n5. **Abandonment of Children**: Parents or guardians who abandon children under twelve years old can face imprisonment for up to seven years.\n\n6. **Concealment of Birth**: Secretly disposing of a child's dead body to conceal its birth is punishable by imprisonment for up to two years.\n\n7. **Exploitation of Children**: Hiring or engaging children for criminal activities, including sexual exploitation, carries severe penalties, with imprisonment ranging from three to ten years.\n\n8. **Kidnapping and Abduction**: Kidnapping or abducting children under ten years old for dishonest purposes is punishable by imprisonment for up to seven years.\n\n9. **Selling and Buying Children for Prostitution**: Selling or buying children for prostitution or illicit purposes is met with harsh penalties, including imprisonment for up to fourteen years.\n\nOverall, the document emphasizes the legal repercussions for various offenses against women and children, highlighting the seriousness of such crimes and the intent behind them."
+                },
+                {
+                  "title": "Punishment for repeat offenders.",
+                  "start_index": 31,
+                  "end_index": 32,
+                  "node_id": "0035",
+                  "summary": "The partial document outlines legal provisions regarding the sale and purchase of children for the purposes of prostitution and illicit intercourse, detailing the penalties for such offenses. It specifies that individuals who sell or buy children with the intent of using them for immoral purposes face significant imprisonment and fines. The document also defines \"illicit intercourse\" and establishes presumptions regarding intent in cases involving minors. Additionally, it addresses culpable homicide, defining it as causing death through intentional or reckless actions, and outlines the distinctions between culpable homicide and murder, including various exceptions and illustrations to clarify the legal definitions."
+                },
+                {
+                  "title": "Disclosure of identity of victim of certain offences, etc.",
+                  "start_index": 32,
+                  "end_index": 33,
+                  "node_id": "0036",
+                  "summary": "The partial document discusses the legal definitions and distinctions between culpable homicide and murder. It explains that a person causing bodily injury leading to death is deemed responsible for that death, even if medical intervention could have prevented it. The document outlines specific conditions under which culpable homicide is classified as murder, including intent to kill or cause serious injury, and actions that are imminently dangerous. It provides various illustrations to clarify these points, detailing scenarios where the offender's intentions and circumstances affect the classification of the act. Additionally, it lists exceptions where culpable homicide does not constitute murder, such as cases involving provocation, self-defense, public servants acting in good faith, sudden fights, and consent to risk of death."
+                }
+              ],
+              "node_id": "0027",
+              "summary": "The partial document outlines legal definitions and provisions related to sexual offences, specifically focusing on the definition of \"rape.\" It details various acts that constitute rape, including penetration and manipulation of a woman's body without consent or under coercive circumstances. The document specifies conditions under which consent is invalid, such as when a woman is underage, incapacitated, or misled about the identity of the perpetrator. It also clarifies that a lack of physical resistance does not imply consent. The penalties for committing rape are outlined, including rigorous imprisonment ranging from ten years to life, with specific aggravating factors that lead to harsher sentences, such as the perpetrator's position of authority or the victim's vulnerability. Exceptions to the definition of rape are noted, including medical procedures and consensual acts within marriage under certain conditions."
+            },
+            {
+              "title": "Of criminal force and assault against woman.",
+              "start_index": 33,
+              "end_index": 34,
+              "nodes": [
+                {
+                  "title": "Assault or use of criminal force to woman with intent to outrage her modesty.",
+                  "start_index": 34,
+                  "end_index": 35,
+                  "node_id": "0038",
+                  "summary": "The partial document outlines various legal provisions related to homicide, murder, culpable homicide, and organized crime. Key points include:\n\n1. **Culpable Homicide**: It describes the circumstances under which a person can be charged with culpable homicide, particularly when death is caused without the intention to kill the specific victim.\n\n2. **Punishment for Murder**: It specifies that murder is punishable by death or life imprisonment, with additional penalties for group murders based on discriminatory grounds.\n\n3. **Culpable Homicide Not Amounting to Murder**: The document details the penalties for culpable homicide that does not reach the threshold of murder, including imprisonment terms and fines based on the intent and knowledge of the offender.\n\n4. **Negligent Acts**: It addresses the consequences of causing death through rash or negligent actions, including specific provisions for medical practitioners and negligent driving.\n\n5. **Abetment of Suicide**: The text outlines penalties for abetting suicide, particularly in cases involving vulnerable individuals such as children or those of unsound mind.\n\n6. **Attempt to Murder**: It discusses the legal repercussions for actions intended to cause death, even if death does not occur.\n\n7. **Organized Crime**: The document defines organized crime, detailing unlawful activities conducted by groups for material gain, and outlines the legal framework for addressing such crimes.\n\nOverall, the document serves as a legal framework for addressing various forms of homicide, the consequences of negligent actions, and organized crime, emphasizing the severity of these offenses and the corresponding punishments."
+                },
+                {
+                  "title": "Sexual harassment.",
+                  "start_index": 35,
+                  "end_index": 36,
+                  "node_id": "0039",
+                  "summary": "The partial document outlines legal provisions regarding various offenses, focusing on culpable homicide, organized crime, and petty organized crime. It specifies the punishments for individuals committing acts with intent to cause death or serious harm, including potential death sentences or life imprisonment. The document provides illustrations of offenses, such as attempted murder and exposure of a child to danger. It defines organized crime, detailing the types of unlawful activities involved, the criteria for classification, and the associated penalties, which can include significant fines and lengthy prison sentences. Additionally, it addresses the consequences for those who abet or facilitate organized crime, as well as the penalties for harboring offenders or possessing property derived from such crimes. Lastly, it introduces the concept of petty organized crime, describing various minor criminal acts and their corresponding punishments."
+                },
+                {
+                  "title": "Assault or use of criminal force to woman with intent to disrobe.",
+                  "start_index": 36,
+                  "end_index": 37,
+                  "node_id": "0040",
+                  "summary": "The partial document outlines legal provisions related to organized crime and terrorism. It defines \"organized crime\" and \"economic offense,\" detailing various criminal activities such as fraud, forgery, and theft. The document specifies penalties for committing organized crime, including severe punishments like death or life imprisonment for offenses resulting in death, and imprisonment ranging from five years to life for other offenses. It also addresses the consequences for those who abet, conspire, or facilitate organized crime, as well as for members of organized crime syndicates. Additionally, it covers \"petty organized crime,\" defining it and stipulating penalties for such acts. The document further elaborates on terrorist acts, outlining the intent and means of committing such acts, and prescribes harsh penalties, including death or life imprisonment, for those who commit or conspire to commit terrorism."
+                },
+                {
+                  "title": "Voyeurism.",
+                  "start_index": 37,
+                  "end_index": 38,
+                  "node_id": "0041",
+                  "summary": "The partial document outlines legal provisions related to terrorist acts and the consequences of such actions in India. It defines a terrorist act as any act intended to threaten the unity, integrity, sovereignty, or security of India, or to instill terror among the populace. The document specifies various means through which these acts can be committed, including the use of explosives, firearms, and other hazardous substances. It details the punishments for committing a terrorist act, including severe penalties such as life imprisonment or the death penalty if the act results in death. Additionally, it addresses conspiracy, recruitment for terrorist activities, and harboring individuals involved in terrorism, each with corresponding penalties. The document also includes definitions of \"hurt\" and \"grievous hurt,\" outlining the legal implications and punishments for causing bodily harm to others."
+                }
+              ],
+              "node_id": "0037",
+              "summary": "The partial document discusses various legal illustrations and exceptions related to the concepts of murder and culpable homicide. It outlines specific scenarios where actions taken under provocation or in self-defense may lead to different legal outcomes, distinguishing between murder and culpable homicide. Key points include:\n\n1. **Murder vs. Culpable Homicide**: The document provides examples where intentional acts result in murder or culpable homicide based on the nature of provocation and intent.\n2. **Provocation**: It explains how provocation from a public servant or in the context of a sudden fight can lead to murder charges.\n3. **Exceptions to Murder**: Several exceptions are outlined where culpable homicide does not amount to murder, such as actions taken in good faith during self-defense or in the heat of passion during a sudden quarrel.\n4. **Legal Consequences**: The document details the punishments for murder and culpable homicide, including life imprisonment, fines, and specific penalties for actions taken by public servants or in cases of negligence.\n5. **Abetment of Suicide**: It addresses the legal implications of abetting suicide, particularly concerning minors or individuals of unsound mind.\n\nOverall, the document serves as a legal framework for understanding the distinctions and consequences of homicide-related offenses."
+            },
+            {
+              "title": "Of offences relating to marriage.",
+              "start_index": 38,
+              "end_index": 39,
+              "nodes": [
+                {
+                  "title": "Dowry death.",
+                  "start_index": 39,
+                  "end_index": 28,
+                  "node_id": "0043",
+                  "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications of the subject matter, providing a comprehensive overview for the reader. The document likely aims to inform, analyze, or persuade regarding the topic at hand."
+                },
+                {
+                  "title": "Cohabitation caused by man deceitfully inducing belief of lawful marriage.",
+                  "start_index": 28,
+                  "end_index": 41,
+                  "node_id": "0044",
+                  "summary": "The partial document outlines various legal provisions related to offenses against women, marriage, and children, as well as general offenses affecting the human body. Key points include:\n\n1. **Consent and Image Dissemination**: It establishes that consent for capturing images does not imply consent for their dissemination, which is considered an offense.\n\n2. **Stalking**: Defines stalking as following or monitoring a woman despite her disinterest, with specific exceptions for law enforcement purposes. Penalties include imprisonment and fines.\n\n3. **Insulting Modesty**: Outlines punishments for actions intended to insult a woman's modesty, including verbal and non-verbal gestures.\n\n4. **Dowry Death**: Defines \"dowry death\" and prescribes severe penalties for husbands or relatives involved in such cases.\n\n5. **Deceitful Marriage**: Addresses the offense of deceitfully inducing a woman to believe she is lawfully married, with significant penalties.\n\n6. **Bigamy**: Discusses penalties for marrying while a spouse is still living, with exceptions for certain circumstances.\n\n7. **Cruelty and Harassment**: Defines cruelty towards women and prescribes penalties for husbands or relatives who subject women to such treatment.\n\n8. **Kidnapping and Abduction**: Details penalties for kidnapping or abducting women or children with the intent to compel marriage or illicit intercourse.\n\n9. **Causing Miscarriage**: Outlines penalties for causing a miscarriage without consent, with harsher penalties if the woman is quick with child.\n\n10. **Child Offenses**: Addresses various offenses against children, including abandonment, hiring children for illegal activities, and procuration for illicit purposes.\n\n11. **Culpable Homicide and Murder**: Defines culpable homicide and murder, detailing the circumstances under which each is applicable and the associated penalties.\n\n12. **Organized Crime**: Defines organized crime and prescribes severe penalties for participation in such activities, including those that result in death.\n\n13. **Terrorist Acts**: Outlines the definition of terrorist acts and the severe penalties for committing or facilitating such acts.\n\n14. **Hurt and Grievous Hurt**: Defines hurt and grievous hurt, detailing the penalties for causing such injuries intentionally or through negligence.\n\n15. **Wrongful Restraint and Confinement**: Defines wrongful restraint and confinement, along with the penalties for obstructing or confining individuals unlawfully.\n\nOverall, the document emphasizes the legal framework for protecting women and children, addressing various forms of violence and exploitation, and establishing penalties for offenders."
+                },
+                {
+                  "title": "Marrying again during lifetime of husband or wife.",
+                  "start_index": 41,
+                  "end_index": 44,
+                  "node_id": "0045",
+                  "summary": "The partial document outlines various legal provisions related to offenses involving bodily harm, wrongful restraint, wrongful confinement, and the use of criminal force. Key points include:\n\n1. **Acid Attacks**: Individuals who throw or attempt to throw acid with the intent to cause harm face imprisonment of 5 to 7 years and fines payable to the victim.\n\n2. **Endangerment**: Punishments for acts that endanger human life or personal safety vary based on the severity of the harm caused, with potential imprisonment ranging from three months to three years and fines up to ten thousand rupees.\n\n3. **Wrongful Restraint and Confinement**: Definitions and penalties for wrongful restraint (preventing someone from proceeding in a direction they have a right to go) and wrongful confinement (restricting someone within certain limits) are detailed, with varying terms of imprisonment and fines based on the duration and nature of the confinement.\n\n4. **Criminal Force and Assault**: The document defines criminal force and assault, outlining the conditions under which force is considered criminal, including the absence of consent and the intent to cause injury, fear, or annoyance. Penalties for assault vary based on circumstances, including assaults on public servants and those intended to dishonor a person.\n\n5. **Specific Offenses**: Additional provisions address assaults related to theft, wrongful confinement, and the consequences of using force against public servants in the execution of their duties.\n\nOverall, the document establishes a framework for addressing serious offenses against individuals, emphasizing the legal repercussions for actions that cause physical harm or restrict personal freedom."
+                }
+              ],
+              "node_id": "0042",
+              "summary": "The partial document outlines legal provisions related to terrorism and bodily harm. It specifies punishments for organizing terrorist training camps, recruiting individuals for terrorist acts, and harboring known terrorists, with penalties ranging from five years to life imprisonment and fines. It also addresses the consequences for members of terrorist organizations and those who possess property obtained through terrorist activities. Additionally, the document defines various types of bodily harm, including \"hurt\" and \"grievous hurt,\" detailing the legal implications and punishments for causing such harm, particularly when using dangerous weapons or for extortion purposes. The text emphasizes the severity of offenses related to terrorism and bodily injury, establishing a framework for legal accountability."
+            },
+            {
+              "title": "OF OFFENCES RELATING TO KIDNAPPING, ABDUCTION, SLAVERY AND FORCED LABOUR",
+              "start_index": 44,
+              "end_index": 45,
+              "nodes": [
+                {
+                  "title": "Kidnapping.",
+                  "start_index": 45,
+                  "end_index": 46,
+                  "node_id": "0047",
+                  "summary": "The partial document outlines various legal provisions related to assault, kidnapping, abduction, and trafficking. It begins with the punishment for assaulting someone in response to grave provocation, followed by definitions and penalties for different types of kidnapping, including kidnapping from India and from lawful guardianship. The document details the severe consequences for kidnapping or abducting children for the purpose of begging, including long prison sentences. It also addresses the implications of kidnapping or abduction with intent to murder or to extort ransom, specifying harsh penalties for such offenses. Additionally, it covers the importation of minors for illicit purposes and the legal repercussions for concealing or confining kidnapped individuals. Lastly, it discusses trafficking, emphasizing the exploitation of individuals through various coercive means."
+                },
+                {
+                  "title": "Abduction.",
+                  "start_index": 46,
+                  "end_index": 47,
+                  "node_id": "0048",
+                  "summary": "The partial document outlines various offenses related to kidnapping, abduction, and trafficking, along with their corresponding punishments. Key points include:\n\n1. **Exploitation for Alms**: It is illegal to expose or exhibit individuals or animals with the intent to solicit alms.\n2. **Kidnapping and Abduction**: Severe penalties are prescribed for kidnapping or abducting individuals with the intent to murder, extort ransom, or subject them to grievous harm or slavery.\n3. **Importation of Minors**: Importing minors for the purpose of illicit intercourse is punishable by imprisonment.\n4. **Concealment of Kidnapped Persons**: Concealing or confining a kidnapped person carries the same penalties as kidnapping.\n5. **Trafficking Offenses**: Trafficking individuals through coercion, deception, or exploitation is defined, with strict penalties based on the number of victims and whether they are children.\n6. **Engagement for Sexual Exploitation**: Engaging trafficked individuals or children for sexual exploitation is punishable by imprisonment.\n7. **Dealing in Slavery**: Habitual dealing in slaves and unlawful compulsory labor are also addressed, with significant penalties.\n\nOverall, the document emphasizes the seriousness of these crimes and the legal consequences for offenders."
+                },
+                {
+                  "title": "Kidnapping or maiming a child for purposes of begging.",
+                  "start_index": 47,
+                  "end_index": 48,
+                  "node_id": "0049",
+                  "summary": "The partial document outlines legal provisions related to human trafficking and offenses against the state. It defines trafficking, emphasizing that consent from the victim is irrelevant and includes various forms of exploitation. The document specifies penalties for trafficking, including rigorous imprisonment terms that vary based on the number of victims and whether they are children. It also addresses the involvement of public servants in trafficking, imposing life imprisonment for such offenses. Additionally, the document details punishments for engaging trafficked individuals in sexual exploitation and for habitual dealing in slaves. It further covers offenses against the state, including waging war against the Government of India, conspiracy to commit such offenses, and actions that endanger the sovereignty and integrity of the nation, with corresponding severe penalties."
+                },
+                {
+                  "title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+                  "start_index": 48,
+                  "end_index": 49,
+                  "node_id": "0050",
+                  "summary": "The partial document outlines various offences against the state as defined in specific sections. Key points include:\n\n1. **Waging War Against the Government**: Individuals who wage or attempt to wage war against the Government of India, or abet such actions, face severe penalties, including death or life imprisonment.\n\n2. **Conspiracy to Commit Offences**: Conspiring to commit offences related to waging war or to intimidate government authorities is punishable by life imprisonment or up to ten years.\n\n3. **Preparation for War**: Collecting arms or preparing to wage war against the government can result in life imprisonment or imprisonment for up to ten years.\n\n4. **Concealment of War Plans**: Concealing plans to wage war with the intent to facilitate such actions is punishable by imprisonment for up to ten years.\n\n5. **Assaulting Government Officials**: Assaulting or attempting to restrain the President or Governors to influence their lawful powers can lead to imprisonment for up to seven years.\n\n6. **Encouraging Secession or Rebellion**: Acts that incite secession, armed rebellion, or endanger national integrity are punishable by life imprisonment or up to seven years.\n\n7. **Waging War Against Foreign States**: Waging war against foreign states at peace with India is punishable by life imprisonment or up to seven years.\n\n8. **Depredation on Foreign Territories**: Committing or preparing for depredation against foreign states can result in imprisonment for up to seven years.\n\n9. **Public Servants and Prisoners**: Public servants who allow state prisoners or prisoners of war to escape face severe penalties, including life imprisonment for voluntary actions and up to three years for negligence.\n\n10. **Aiding Prisoner Escapes**: Assisting in the escape of state prisoners or resisting their recapture can lead to life imprisonment or up to ten years.\n\n11. **Mutiny in Armed Forces**: Abetting mutiny or attempting to seduce military personnel from their duty is punishable by life imprisonment or up to ten years, with harsher penalties if mutiny occurs.\n\n12. **Assault on Superior Officers**: Abetting assaults on superior officers in the armed forces can result in imprisonment for up to three years."
+                },
+                {
+                  "title": "Trafficking of person.",
+                  "start_index": 49,
+                  "end_index": 50,
+                  "node_id": "0051",
+                  "summary": "The partial document outlines various legal provisions related to offenses against the state, particularly concerning depredation, the escape of prisoners, and military conduct. Key points include:\n\n1. **Depredation**: Punishments for committing or preparing to commit depredation against foreign states at peace with India, including imprisonment and fines.\n2. **Receiving Stolen Property**: Penalties for receiving property known to be taken through depredation or related offenses.\n3. **Escape of Prisoners**: Severe consequences for public servants who allow state prisoners or prisoners of war to escape, either voluntarily or through negligence, as well as for those who assist in such escapes.\n4. **Military Offenses**: Provisions against abetting mutiny, insubordination, and desertion within the armed forces, with varying degrees of punishment based on the severity of the offense.\n5. **Election Offenses**: Definitions related to electoral rights and penalties for bribery aimed at influencing electoral participation.\n\nOverall, the document emphasizes the legal repercussions for actions that threaten state security and integrity, particularly in relation to military and electoral conduct."
+                },
+                {
+                  "title": "Exploitation of a trafficked person.",
+                  "start_index": 50,
+                  "end_index": 51,
+                  "node_id": "0052",
+                  "summary": "The partial document outlines various legal provisions related to military offenses and electoral conduct in India. It includes penalties for abetting assaults and desertion by military personnel, harboring deserters, and acts of insubordination. Specific punishments are detailed for individuals who conceal deserters on merchant vessels and for those who impersonate military personnel. The document also defines electoral rights and addresses offenses such as bribery, undue influence, and personation during elections, along with the corresponding penalties for these offenses. Additionally, it specifies the consequences for making false statements about candidates in relation to elections."
+                },
+                {
+                  "title": "Habitual dealing in slaves.",
+                  "start_index": 51,
+                  "end_index": 52,
+                  "node_id": "0053",
+                  "summary": "The partial document outlines various offenses related to electoral integrity and financial crimes. It covers the definitions and penalties for bribery, undue influence, and personation during elections. Key points include:\n\n1. **Bribery**: Accepting or offering gratification as a reward for influencing electoral rights constitutes bribery, punishable by imprisonment or fines.\n2. **Undue Influence**: Interfering with the free exercise of electoral rights through threats or coercion is classified as undue influence, with similar penalties.\n3. **Personation**: Voting in the name of another person or using a fictitious name is deemed personation, also punishable by imprisonment or fines.\n4. **False Statements**: Making false statements about a candidate's character or conduct to affect election results is punishable by fines.\n5. **Election Expenses**: Unauthorized expenses related to promoting a candidate's election can lead to fines, with provisions for minor expenses if approved later.\n6. **Financial Crimes**: The document also addresses counterfeiting coins, currency notes, and government stamps, detailing severe penalties for such offenses, including life imprisonment for serious violations.\n\nOverall, the document emphasizes the legal framework aimed at maintaining electoral integrity and preventing financial fraud."
+                },
+                {
+                  "title": "Unlawful compulsory labour.",
+                  "start_index": 52,
+                  "end_index": 64,
+                  "node_id": "0054",
+                  "summary": "The partial document outlines various legal provisions related to electoral offenses, counterfeiting, public tranquility, and the responsibilities of public servants. Key points include:\n\n1. **Election Offenses**: Individuals without proper authority who incur expenses for promoting a candidate's election can face fines. Failure to maintain election expense accounts is also punishable.\n\n2. **Counterfeiting**: Severe penalties, including life imprisonment, are prescribed for counterfeiting coins, currency notes, and government stamps. This includes possession of counterfeit items and the use of machinery for counterfeiting.\n\n3. **Public Assembly and Rioting**: The document defines unlawful assemblies and the consequences for participating in or promoting such assemblies. It outlines punishments for rioting and for obstructing public servants during their duties.\n\n4. **Public Servant Accountability**: Public servants are held accountable for disobeying legal directives, failing to maintain proper conduct, and providing false information. Specific offenses include disobedience to lawful orders, failure to assist in public duties, and giving false evidence.\n\n5. **False Evidence**: The document details offenses related to giving false evidence in judicial proceedings, including fabricating evidence and the associated penalties.\n\nOverall, the document emphasizes the legal repercussions for various offenses that undermine electoral integrity, public order, and the duties of public officials."
+                },
+                {
+                  "title": "Fabricating false evidence.",
+                  "start_index": 64,
+                  "end_index": 64,
+                  "node_id": "0055",
+                  "summary": "The partial document discusses the concept of false evidence in legal contexts, outlining various scenarios in which an individual (referred to as A) may provide false evidence, either knowingly or in good faith. It distinguishes between false statements made with intent to deceive and genuine beliefs that may turn out to be incorrect. Specific examples illustrate how false evidence can be fabricated, such as making false entries in records or creating misleading documents. The document also details the legal consequences for those who intentionally give or fabricate false evidence, specifying different penalties based on the severity of the offense, including imprisonment and fines."
+                },
+                {
+                  "title": "Punishment for false evidence.",
+                  "start_index": 64,
+                  "end_index": 66,
+                  "node_id": "0056",
+                  "summary": "The partial document outlines various legal provisions regarding the giving and fabrication of false evidence in judicial proceedings. It distinguishes between different scenarios in which a person may provide false evidence, such as knowingly stating falsehoods, expressing beliefs that are not true, or certifying incorrect translations. The document also defines \"fabricating false evidence\" and provides illustrations of actions that constitute this offense, such as planting evidence or making false entries in records. It details the punishments for those who intentionally give or fabricate false evidence, with varying penalties based on the severity of the offense, including life imprisonment for capital offenses. Additionally, it addresses the consequences for individuals who threaten others to provide false evidence, use false certificates, or conceal evidence of a crime. The document emphasizes the legal obligations to provide truthful information and the penalties for failing to do so."
+                },
+                {
+                  "title": "Using evidence known to be false.",
+                  "start_index": 66,
+                  "end_index": 66,
+                  "node_id": "0057",
+                  "summary": "The partial document outlines various legal provisions related to the use of false evidence and the consequences of such actions. It specifies punishments for individuals who corruptly use or attempt to use false evidence, issue or sign false certificates, make false statements in legally admissible declarations, and use such declarations knowing them to be false. Additionally, it addresses the offense of causing evidence to disappear to protect an offender from legal consequences and the intentional omission of information about a committed offense by someone legally obligated to report it. The document emphasizes the seriousness of these offenses and prescribes specific penalties based on the nature of the crime involved."
+                },
+                {
+                  "title": "Issuing or signing false certificate.",
+                  "start_index": 66,
+                  "end_index": 66,
+                  "node_id": "0058",
+                  "summary": "The partial document outlines various legal provisions related to the use of false evidence and the consequences of such actions. It specifies punishments for individuals who corruptly use or attempt to use false evidence, issue or sign false certificates, make false statements in legally admissible declarations, and use such declarations knowing them to be false. Additionally, it addresses the consequences for those who cause evidence of an offense to disappear or provide false information to protect an offender, as well as for individuals who intentionally fail to report an offense they are legally obligated to inform about. The document emphasizes the seriousness of these offenses and the corresponding penalties, which vary based on the severity of the underlying crime."
+                },
+                {
+                  "title": "Using as true a certificate known to be false.",
+                  "start_index": 66,
+                  "end_index": 66,
+                  "node_id": "0059",
+                  "summary": "The partial document outlines various legal provisions related to the use of false evidence and the consequences of such actions. It specifies punishments for individuals who corruptly use or attempt to use false evidence, issue or sign false certificates, make false statements in legally admissible declarations, and use such declarations knowing them to be false. Additionally, it addresses the consequences for those who cause evidence of an offense to disappear or provide false information to protect an offender, as well as for individuals who intentionally fail to report an offense they are legally obligated to inform about. The document emphasizes the seriousness of these offenses and the corresponding penalties, which vary based on the severity of the underlying crime."
+                },
+                {
+                  "title": "False statement made in declaration which is by law receivable as evidence.",
+                  "start_index": 66,
+                  "end_index": 66,
+                  "node_id": "0060",
+                  "summary": "The partial document outlines various legal provisions related to the use of false evidence and the consequences of such actions. It specifies punishments for individuals who corruptly use or attempt to use false evidence, issue or sign false certificates, make false statements in legally admissible declarations, and use such declarations knowing them to be false. Additionally, it addresses the consequences for those who cause evidence of an offense to disappear or provide false information to protect an offender, as well as for individuals who intentionally fail to report an offense they are legally obligated to inform about. The document emphasizes the seriousness of these offenses and the corresponding penalties, which vary based on the severity of the underlying crime."
+                },
+                {
+                  "title": "Using as true such declaration knowing it to be false.",
+                  "start_index": 66,
+                  "end_index": 66,
+                  "node_id": "0061",
+                  "summary": "The partial document outlines various legal provisions related to the use of false evidence and the consequences of such actions. It specifies punishments for individuals who corruptly use or attempt to use false evidence, issue or sign false certificates, make false statements in legally admissible declarations, and use such declarations knowing them to be false. Additionally, it addresses the consequences for those who cause evidence of an offense to disappear or provide false information to protect an offender, as well as for individuals who intentionally fail to report an offense they are legally obligated to inform about. The document emphasizes the seriousness of these offenses and the corresponding penalties, which vary based on the severity of the underlying crime."
+                },
+                {
+                  "title": "Causing disappearance of evidence of offence, or giving false information to screen offender.",
+                  "start_index": 66,
+                  "end_index": 47,
+                  "node_id": "0062",
+                  "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications, providing a comprehensive overview of the subject matter. The document likely emphasizes critical analysis and may include examples or case studies to illustrate the main ideas."
+                },
+                {
+                  "title": "Intentional omission to give information of offence by person bound to inform.",
+                  "start_index": 47,
+                  "end_index": 67,
+                  "node_id": "0063",
+                  "summary": "The partial document outlines various legal provisions related to trafficking, public order offenses, and the responsibilities of public servants. Key points include:\n\n1. **Trafficking Offenses**: It defines trafficking, emphasizing that consent from the victim is irrelevant. It specifies punishments for trafficking individuals, particularly children, with severe penalties for repeat offenders and involvement of public servants.\n\n2. **Exploitation Definitions**: Exploitation includes physical and sexual exploitation, slavery, and forced organ removal.\n\n3. **Public Order Offenses**: It details offenses against the state, including waging war against the government, conspiracy to commit such acts, and unlawful assemblies. Punishments vary based on the severity of the offense.\n\n4. **Election-Related Offenses**: The document addresses bribery, undue influence, and personation at elections, outlining penalties for such actions.\n\n5. **Counterfeiting and Fraud**: It includes provisions against counterfeiting currency, stamps, and other legal documents, with strict penalties for those involved in such activities.\n\n6. **Public Servant Accountability**: It emphasizes the duties of public servants, including the consequences of disobeying lawful orders, providing false information, and obstructing justice.\n\n7. **False Evidence and Public Justice**: The document outlines offenses related to giving false evidence, fabricating evidence, and obstructing justice, with significant penalties for those found guilty.\n\nOverall, the document establishes a framework for addressing serious crimes, protecting public order, and ensuring accountability among public officials."
+                },
+                {
+                  "title": "Giving false information respecting an offence committed.",
+                  "start_index": 67,
+                  "end_index": 67,
+                  "node_id": "0064",
+                  "summary": "The partial document outlines various offenses related to the provision of false information, destruction of evidence, false personation, and fraudulent activities concerning property. Key points include:\n\n1. **False Information**: Individuals who knowingly provide false information about an offense can face imprisonment for up to two years or fines.\n2. **Destruction of Evidence**: Secreting or destroying documents or electronic records that are required as evidence can lead to imprisonment for up to three years or fines.\n3. **False Personation**: Impersonating another person to make statements or affect legal proceedings can result in imprisonment for up to three years or fines.\n4. **Fraudulent Property Actions**: Engaging in fraudulent activities to conceal or transfer property to avoid forfeiture or execution of a court order can lead to imprisonment for up to three years or fines.\n5. **Fraudulent Claims**: Claiming property without rightful ownership to prevent its seizure can result in imprisonment for up to two years or fines.\n6. **Suffering Decrees Fraudulently**: Allowing a decree to be passed against oneself for an incorrect amount or property can lead to imprisonment for up to two years or fines. \n\nOverall, the document emphasizes the legal consequences of dishonest actions in legal and property matters."
+                },
+                {
+                  "title": "Destruction of document or electronic record to prevent its production as evidence.",
+                  "start_index": 67,
+                  "end_index": 67,
+                  "node_id": "0065",
+                  "summary": "The partial document outlines various offenses related to the provision of false information, destruction of evidence, false personation, and fraudulent activities concerning property. Key points include:\n\n1. **False Information**: Individuals who knowingly provide false information about an offense can face imprisonment for up to two years or fines.\n2. **Destruction of Evidence**: Secreting or destroying documents or electronic records that are required as evidence can lead to imprisonment for up to three years or fines.\n3. **False Personation**: Impersonating another person to make statements or affect legal proceedings can result in imprisonment for up to three years or fines.\n4. **Fraudulent Property Transactions**: Engaging in fraudulent activities to conceal or transfer property to avoid forfeiture or execution of a court order can lead to imprisonment for up to three years or fines.\n5. **Fraudulent Claims**: Claiming property without rightful ownership to prevent its seizure can result in imprisonment for up to two years or fines.\n6. **Suffering Decrees Fraudulently**: Allowing a decree to be passed against oneself for an incorrect amount or property can lead to imprisonment for up to two years or fines. \n\nOverall, the document emphasizes the legal consequences of dishonest actions in legal and property matters."
+                },
+                {
+                  "title": "False personation for purpose of act or proceeding in suit or prosecution.",
+                  "start_index": 67,
+                  "end_index": 67,
+                  "node_id": "0066",
+                  "summary": "The partial document outlines various offenses related to the provision of false information, destruction of evidence, false personation, and fraudulent activities concerning property. Key points include:\n\n1. **False Information**: Individuals who knowingly provide false information about an offense can face imprisonment for up to two years or fines.\n2. **Destruction of Evidence**: Secreting or destroying documents or electronic records that are required as evidence can lead to imprisonment for up to three years or fines.\n3. **False Personation**: Impersonating another person to make statements or affect legal proceedings can result in imprisonment for up to three years or fines.\n4. **Fraudulent Property Actions**: Engaging in fraudulent activities to conceal or transfer property to avoid forfeiture or execution of a court order can lead to imprisonment for up to three years or fines.\n5. **Fraudulent Claims**: Claiming property without rightful ownership to prevent its seizure can result in imprisonment for up to two years or fines.\n6. **Suffering Decrees Fraudulently**: Allowing a decree to be passed against oneself for an incorrect amount or property can lead to imprisonment for up to two years or fines. \n\nOverall, the document emphasizes the legal consequences of dishonest actions in legal and property matters."
+                },
+                {
+                  "title": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.",
+                  "start_index": 67,
+                  "end_index": 67,
+                  "node_id": "0067",
+                  "summary": "The partial document outlines various legal offenses and their corresponding penalties. It covers the following main points: \n\n1. **False Information**: Providing false information about an offense, knowing it to be untrue, can lead to imprisonment for up to two years or a fine.\n2. **Destruction of Evidence**: Secreting or destroying documents or electronic records that are required as evidence can result in imprisonment for up to three years or a fine.\n3. **False Personation**: Impersonating another person to make statements or affect legal proceedings can lead to imprisonment for up to three years or a fine.\n4. **Fraudulent Property Actions**: \n   - Removing or concealing property to prevent its seizure can result in imprisonment for up to three years or a fine.\n   - Fraudulently claiming property without rightful ownership can lead to imprisonment for up to two years or a fine.\n   - Causing or suffering a decree for an incorrect sum or property can also result in imprisonment for up to two years or a fine. \n\nThese points emphasize the legal consequences of fraudulent actions and the importance of integrity in legal proceedings."
+                },
+                {
+                  "title": "Fraudulent claim to property to prevent its seizure as forfeited or in execution.",
+                  "start_index": 67,
+                  "end_index": 67,
+                  "node_id": "0068",
+                  "summary": "The partial document outlines various legal offenses and their corresponding penalties. It covers the following main points: \n\n1. **False Information**: Providing false information about an offense can lead to imprisonment for up to two years or a fine.\n2. **Destruction of Evidence**: Secreting or destroying documents or electronic records that are required as evidence can result in imprisonment for up to three years or a fine.\n3. **False Personation**: Impersonating another individual to make false statements or engage in legal processes can incur a penalty of up to three years of imprisonment or a fine.\n4. **Fraudulent Property Actions**: Several offenses related to the fraudulent removal, concealment, or claim of property to prevent its seizure or execution of a court order are detailed, with penalties of up to three years of imprisonment or fines.\n5. **Fraudulent Decrees**: Causing or suffering a decree to be passed for an incorrect amount or property not owed can also lead to imprisonment for up to two years or a fine.\n\nOverall, the document emphasizes the legal consequences of dishonesty and fraudulent actions in legal and property matters."
+                },
+                {
+                  "title": "Fraudulently suffering decree for sum not due.",
+                  "start_index": 67,
+                  "end_index": 68,
+                  "node_id": "0069",
+                  "summary": "The partial document outlines various legal offenses and their corresponding penalties under Indian law. Key points include:\n\n1. **False Information**: Providing false information about an offense can lead to imprisonment for up to two years or a fine.\n2. **Destruction of Evidence**: Secreting or destroying documents or electronic records that are required as evidence can result in imprisonment for up to three years or a fine.\n3. **False Personation**: Impersonating another person to make false statements in legal proceedings is punishable by up to three years of imprisonment or a fine.\n4. **Fraudulent Property Actions**: Several sections address fraudulent actions related to property, including concealing or transferring property to avoid forfeiture, claiming property without rightful ownership, and causing decrees to be passed fraudulently. Penalties include imprisonment for up to three years or fines.\n5. **False Claims in Court**: Making false claims in court with intent to injure another person can lead to imprisonment for up to two years and fines.\n6. **False Criminal Charges**: Instituting false criminal proceedings against someone can result in severe penalties, including imprisonment for up to ten years if the charge is serious.\n7. **Harboring Offenders**: Concealing or harboring an offender to shield them from legal punishment carries significant penalties, depending on the severity of the original offense.\n\nOverall, the document emphasizes the legal repercussions of dishonesty and fraudulent behavior in legal and property matters."
+                },
+                {
+                  "title": "Dishonestly making false claim in Court.",
+                  "start_index": 68,
+                  "end_index": 68,
+                  "node_id": "0070",
+                  "summary": "The partial document outlines various legal offenses related to fraudulent activities in court proceedings. It describes the following main points: \n\n1. **Fraudulent Judgment**: A scenario where an individual (Z) allows a fraudulent judgment to be passed against him to benefit another party (B), which constitutes an offense.\n\n2. **False Claims in Court**: Individuals who make false claims in court with the intent to deceive or harm others can face imprisonment for up to two years and fines.\n\n3. **Fraudulent Decrees**: Obtaining a court decree for an amount not owed or for property not entitled to can lead to similar penalties of imprisonment and fines.\n\n4. **False Criminal Charges**: Instituting criminal proceedings or falsely charging someone without lawful grounds can result in severe penalties, including imprisonment for up to ten years, especially if the charge is serious.\n\n5. **Harboring Offenders**: Concealing or harboring an offender to shield them from legal consequences is punishable, with varying terms of imprisonment based on the severity of the original offense.\n\nOverall, the document emphasizes the legal repercussions of fraudulent actions in judicial processes and the protection of the integrity of the legal system."
+                },
+                {
+                  "title": "Fraudulently obtaining decree for sum not due.",
+                  "start_index": 68,
+                  "end_index": 68,
+                  "node_id": "0071",
+                  "summary": "The partial document outlines various legal offenses related to fraudulent activities in court proceedings. It describes the following main points: \n\n1. **Fraudulent Judgment**: A scenario where an individual (Z) allows a fraudulent judgment to be passed against him to benefit another party (B), which constitutes an offense.\n\n2. **False Claims in Court**: Individuals who make false claims in court with the intent to deceive or harm others can face imprisonment for up to two years and fines.\n\n3. **Fraudulent Decrees**: Obtaining a court decree for an amount not owed or for property not entitled to can lead to similar penalties of imprisonment and fines.\n\n4. **False Criminal Charges**: Instituting criminal proceedings or falsely charging someone without lawful grounds can result in severe penalties, including imprisonment for up to ten years, especially if the charge is serious.\n\n5. **Harboring Offenders**: Concealing or harboring an offender to shield them from legal consequences is punishable, with varying terms of imprisonment based on the severity of the original offense.\n\nThe document emphasizes the legal repercussions for engaging in fraudulent activities within the judicial system."
+                },
+                {
+                  "title": "False charge of offence made with intent to injure.",
+                  "start_index": 68,
+                  "end_index": 68,
+                  "node_id": "0072",
+                  "summary": "The partial document outlines various legal offenses related to fraudulent activities in court proceedings. It describes the following main points: \n\n1. **Fraudulent Judgment**: A scenario where an individual (Z) allows a fraudulent judgment to be passed against him to benefit another party (B), which constitutes an offense.\n\n2. **False Claims in Court**: Individuals who make false claims in court with the intent to deceive or harm others can face imprisonment for up to two years and fines.\n\n3. **Fraudulent Decrees**: Obtaining a court decree for an amount not owed or for property not entitled to can lead to similar penalties of imprisonment and fines.\n\n4. **False Criminal Charges**: Instituting criminal proceedings or falsely charging someone without lawful grounds can result in severe penalties, including imprisonment for up to ten years, especially if the charge is serious.\n\n5. **Harboring Offenders**: Concealing or harboring an offender to shield them from legal consequences is punishable, with varying terms of imprisonment based on the severity of the original offense.\n\nThe document emphasizes the legal repercussions for engaging in fraudulent activities within the judicial system."
+                },
+                {
+                  "title": "Harbouring offender.",
+                  "start_index": 68,
+                  "end_index": 69,
+                  "node_id": "0073",
+                  "summary": "The partial document outlines various legal offenses related to fraudulent activities in court and the consequences for such actions. It begins with an illustration of a scenario where an individual (Z) fraudulently allows a judgment against him to benefit another party (B), indicating that Z has committed an offense. The document then details specific offenses, including making false claims in court, fraudulently obtaining decrees for sums not due, and falsely charging individuals with crimes to cause injury. It specifies the punishments for these offenses, which can include imprisonment and fines, with varying terms based on the severity of the offense. Additionally, it addresses the harboring of offenders and the consequences for those who conceal or screen offenders from legal punishment. The document also discusses the implications of accepting or offering gratification in exchange for concealing offenses or not pursuing legal action against offenders. Overall, it emphasizes the legal repercussions for fraudulent behavior in judicial proceedings and the protection of the legal system from such misconduct."
+                },
+                {
+                  "title": "Taking gift, etc., to screen an offender from punishment.",
+                  "start_index": 69,
+                  "end_index": 76,
+                  "node_id": "0074",
+                  "summary": "The partial document outlines various legal provisions related to the concealment of offenders, the penalties for harboring or screening individuals from legal punishment, and the responsibilities of public servants in maintaining law and order. Key points include:\n\n1. **Concealment and Harboring**: Individuals who conceal offenders or assist in their escape from legal punishment face significant penalties, including imprisonment and fines, depending on the severity of the original offense.\n\n2. **Public Servants' Responsibilities**: Public servants are held to strict standards regarding their conduct, with specific penalties for disobeying legal directions, framing incorrect records, or failing to apprehend individuals as required by law.\n\n3. **Resistance to Apprehension**: There are provisions for punishing individuals who resist lawful apprehension or obstruct the arrest of others, with penalties varying based on the seriousness of the offense involved.\n\n4. **Public Health and Safety Offenses**: The document also addresses offenses affecting public health, safety, and morals, including the spread of infectious diseases, adulteration of food and drugs, and public nuisances.\n\n5. **Obscenity and Public Decency**: It includes regulations against the sale and distribution of obscene materials, outlining penalties for those involved in such activities.\n\nOverall, the document emphasizes the legal consequences of actions that obstruct justice, endanger public safety, or violate public decency standards."
+                },
+                {
+                  "title": "Offering gift or restoration of property in consideration of screening offender.",
+                  "start_index": 76,
+                  "end_index": 77,
+                  "node_id": "0075",
+                  "summary": "The partial document outlines various legal provisions related to public safety, obscenity, and religious offenses. Key points include:\n\n1. **Negligent Conduct with Animals**: Individuals who fail to take necessary precautions with animals in their possession, leading to potential danger to human life or injury, may face imprisonment up to six months or fines up to five thousand rupees.\n\n2. **Public Nuisance**: Committing a public nuisance not specifically addressed by other laws can result in fines up to one thousand rupees. Repeated offenses after an injunction can lead to imprisonment up to six months or fines up to five thousand rupees.\n\n3. **Obscenity**: The document defines what constitutes obscene material and outlines severe penalties for the sale, distribution, or possession of such materials, particularly targeting those who engage with minors. First offenses can lead to imprisonment up to two years and fines, with harsher penalties for repeat offenses.\n\n4. **Obscene Acts in Public**: Engaging in obscene acts or uttering obscene words in public places can result in imprisonment up to three months or fines.\n\n5. **Lottery Offenses**: Operating unauthorized lotteries or publishing proposals related to such lotteries can lead to imprisonment or fines.\n\n6. **Religious Offenses**: The document addresses offenses related to religion, including the destruction or defilement of places of worship, insulting religious beliefs, and disturbing religious assemblies, with specified penalties for each offense. \n\nOverall, the document emphasizes the legal consequences of actions that endanger public safety, promote obscenity, or insult religious sentiments."
+                },
+                {
+                  "title": "Taking gift to help to recover stolen property, etc.",
+                  "start_index": 77,
+                  "end_index": 70,
+                  "node_id": "0076",
+                  "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications, providing a comprehensive overview of the subject matter. The document likely aims to inform or persuade the reader by presenting a structured analysis and supporting details."
+                },
+                {
+                  "title": "Harbouring offender who has escaped from custody or whose apprehension has been ordered.",
+                  "start_index": 70,
+                  "end_index": 70,
+                  "node_id": "0077",
+                  "summary": "The partial document outlines legal provisions regarding the punishment for harboring individuals who have escaped lawful custody or are ordered to be apprehended for various offenses. It specifies the penalties based on the severity of the original offense, including imprisonment terms and fines. Additionally, it addresses the consequences for harboring individuals involved in robbery or dacoity, with similar penalties. The document also includes provisions for public servants who disobey legal directives to protect individuals from punishment or property from forfeiture, detailing the potential penalties for such actions. Exceptions are noted for spouses of offenders in these contexts."
+                },
+                {
+                  "title": "Penalty for harbouring robbers or dacoits.",
+                  "start_index": 70,
+                  "end_index": 70,
+                  "node_id": "0078",
+                  "summary": "The partial document outlines legal provisions regarding the punishment for harboring individuals who have escaped lawful custody or are ordered to be apprehended. It specifies varying penalties based on the severity of the original offense, including imprisonment terms and fines. Additionally, it addresses the consequences for harboring individuals involved in robbery or dacoity, with similar penalties. The document also includes stipulations for public servants who disobey legal directives to protect individuals from punishment or property from forfeiture. Exceptions are noted for spouses of the offenders in all cases."
+                },
+                {
+                  "title": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.",
+                  "start_index": 70,
+                  "end_index": 71,
+                  "node_id": "0079",
+                  "summary": "The partial document outlines various legal provisions regarding the punishment for harboring offenders and the responsibilities of public servants. Key points include:\n\n1. **Harboring Offenders**: Individuals who harbor or conceal a person in lawful custody or ordered for apprehension face penalties that vary based on the severity of the original offense, ranging from imprisonment of up to seven years for serious crimes to lesser terms for minor offenses.\n\n2. **Public Servants' Responsibilities**: Public servants who disobey legal directions to protect individuals from punishment or property from forfeiture can be punished with imprisonment or fines. Specific provisions detail penalties for public servants who frame incorrect records, make unlawful judicial decisions, or fail to apprehend individuals they are legally bound to detain.\n\n3. **Intentional Omissions**: Public servants who intentionally allow individuals to escape or fail to apprehend them face severe penalties, with the length of imprisonment depending on the nature of the offense for which the individual was detained.\n\n4. **Exceptions**: Certain exceptions are noted, particularly regarding the harboring of offenders by their spouses, which is not subject to the same penalties.\n\nOverall, the document emphasizes the legal consequences for both individuals who assist offenders and public servants who neglect their duties."
+                },
+                {
+                  "title": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture.",
+                  "start_index": 71,
+                  "end_index": 71,
+                  "node_id": "0080",
+                  "summary": "The partial document outlines various offenses committed by public servants in relation to their duties and the corresponding penalties. It covers the following main points: \n\n1. Public servants who knowingly prepare incorrect records or writings with the intent to cause loss or save individuals from legal consequences can face imprisonment of up to three years or fines.\n2. Public servants who corruptly issue reports or decisions contrary to law during judicial proceedings may be punished with imprisonment of up to seven years or fines.\n3. Those in positions of authority who unlawfully commit or keep individuals in confinement can also face imprisonment of up to seven years or fines.\n4. Public servants who intentionally fail to apprehend or allow escape of individuals charged with serious offenses face varying penalties based on the severity of the offense, ranging from two to seven years of imprisonment.\n5. Similar penalties apply to public servants who neglect their duty to apprehend individuals under court sentences, with harsher penalties for those under death sentences."
+                },
+                {
+                  "title": "Public servant in judicial proceeding corruptly making report, etc., contrary to law.",
+                  "start_index": 71,
+                  "end_index": 71,
+                  "node_id": "0081",
+                  "summary": "The partial document outlines various offenses committed by public servants in relation to their duties and the corresponding penalties. It covers the following main points: \n\n1. Public servants who knowingly prepare incorrect records or writings with the intent to cause loss or avoid legal punishment can face imprisonment of up to three years or fines.\n2. Public servants who corruptly issue reports or decisions contrary to law during judicial proceedings may be punished with imprisonment of up to seven years or fines.\n3. Those in positions of authority who unlawfully commit or keep individuals in confinement can also face imprisonment of up to seven years or fines.\n4. Public servants who intentionally fail to apprehend or allow escape of individuals charged with serious offenses face varying penalties based on the severity of the offense, ranging from two to seven years of imprisonment.\n5. Similar penalties apply to public servants who neglect their duty to apprehend individuals under court sentences, with harsher penalties for those under death sentences."
+                },
+                {
+                  "title": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law.",
+                  "start_index": 71,
+                  "end_index": 71,
+                  "node_id": "0082",
+                  "summary": "The partial document outlines various offenses committed by public servants in relation to their duties and the corresponding penalties. It covers the following main points: \n\n1. Public servants who knowingly prepare incorrect records or writings with the intent to cause loss or save individuals from legal consequences can face imprisonment of up to three years or fines.\n2. Public servants who corruptly issue reports or decisions contrary to law during judicial proceedings may be punished with imprisonment of up to seven years or fines.\n3. Those in positions of authority who unlawfully commit or keep individuals in confinement can also face imprisonment of up to seven years or fines.\n4. Public servants who intentionally fail to apprehend or allow escape of individuals charged with serious offenses face varying penalties based on the severity of the offense, ranging from two to seven years of imprisonment.\n5. Similar penalties apply to public servants who neglect their duty to apprehend individuals under court sentences, with harsher penalties for those under death sentences."
+                },
+                {
+                  "title": "Intentional omission to apprehend on part of public servant bound to apprehend.",
+                  "start_index": 71,
+                  "end_index": 72,
+                  "node_id": "0083",
+                  "summary": "The partial document outlines various offenses and corresponding punishments related to the misconduct of public servants in the context of law enforcement and judicial proceedings. Key points include:\n\n1. **Framing Incorrect Records**: Public servants who knowingly create false records with the intent to cause loss or avoid legal punishment face imprisonment of up to three years or fines.\n\n2. **Corruption in Judicial Proceedings**: Public servants who make reports or decisions contrary to law during judicial proceedings can be punished with imprisonment of up to seven years or fines.\n\n3. **Improper Commitment and Confinement**: Public servants with authority who unlawfully commit or keep individuals in confinement can face imprisonment of up to seven years, depending on the severity of the offense of the individual involved.\n\n4. **Intentional Omission to Apprehend**: Public servants who intentionally fail to apprehend or allow escape of individuals charged with serious offenses face severe penalties, including imprisonment for life or up to fourteen years.\n\n5. **Negligent Suffering of Escape**: Public servants who negligently allow a person in custody to escape can be punished with up to two years of simple imprisonment or fines.\n\n6. **Resistance to Lawful Apprehension**: Individuals who resist or obstruct their own lawful apprehension or escape from custody face penalties of up to two years, with increased penalties for more serious offenses.\n\n7. **Obstruction of Apprehension of Others**: Those who resist or attempt to rescue another person from lawful custody face varying penalties based on the severity of the offense for which the other person is charged, with potential imprisonment of up to seven years for serious offenses.\n\nOverall, the document emphasizes the legal responsibilities of public servants and the consequences of their failure to uphold the law."
+                },
+                {
+                  "title": "Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed.",
+                  "start_index": 72,
+                  "end_index": 75,
+                  "node_id": "0084",
+                  "summary": "The partial document outlines various legal provisions related to offenses concerning confinement, public health, safety, and negligence. Key points include:\n\n1. **Escape from Confinement**: It details penalties for public servants who negligently allow a person in custody to escape, with varying terms of imprisonment based on the severity of the offense for which the person was confined.\n\n2. **Resistance to Apprehension**: It specifies punishments for individuals who resist lawful apprehension or attempt to escape from custody, with increased penalties for those charged with serious offenses.\n\n3. **Public Servant Responsibilities**: It emphasizes the obligations of public servants to apprehend or confine individuals and outlines penalties for failing to do so, whether intentionally or negligently.\n\n4. **Public Health Offenses**: The document addresses acts that could spread infectious diseases, including negligence and malicious actions, with corresponding penalties.\n\n5. **Adulteration of Food and Drugs**: It includes provisions against the adulteration of food, drink, and medical preparations, detailing punishments for those who sell or expose such adulterated items.\n\n6. **Public Nuisance and Safety**: It defines public nuisance and outlines penalties for actions that endanger public health or safety, including negligent conduct with hazardous substances, vehicles, and construction practices.\n\n7. **Negligent Conduct**: The document specifies penalties for negligent actions that could cause harm to others, including those involving machinery, fire, explosives, and public navigation.\n\nOverall, the document establishes a framework for legal accountability regarding public safety, health, and the responsibilities of public servants."
+                },
+                {
+                  "title": "Negligent conduct with respect to animal.",
+                  "start_index": 75,
+                  "end_index": 75,
+                  "node_id": "0085",
+                  "summary": "The partial document outlines various legal provisions related to negligent and rash conduct that endangers human life or property. It specifies penalties for different offenses, including:\n\n1. Rash navigation of vessels, punishable by up to six months imprisonment or fines.\n2. Exhibition of false lights or markers that mislead navigators, with harsher penalties of up to seven years imprisonment and significant fines.\n3. Conveying individuals in unsafe or overloaded vessels, with penalties similar to those for rash navigation.\n4. Causing danger or obstruction in public ways or navigation lines, punishable by fines.\n5. Negligent handling of poisonous substances, fire, explosive materials, and machinery, each carrying penalties of imprisonment or fines.\n6. Negligent construction or repair of buildings that could endanger lives, also subject to similar penalties.\n\nOverall, the document emphasizes accountability for actions that pose risks to public safety in various contexts."
+                },
+                {
+                  "title": "Punishment for public nuisance in cases not otherwise provided for.",
+                  "start_index": 75,
+                  "end_index": 75,
+                  "node_id": "0086",
+                  "summary": "The partial document outlines various legal provisions related to negligent and rash conduct that endangers human life or property. It specifies penalties for different offenses, including:\n\n1. Rash navigation of vessels, punishable by up to six months imprisonment or fines.\n2. Exhibition of false lights or markers that mislead navigators, with penalties of up to seven years imprisonment and significant fines.\n3. Conveying individuals in unsafe or overloaded vessels, with similar penalties as for rash navigation.\n4. Causing danger or obstruction in public ways or navigation lines, punishable by fines.\n5. Negligent handling of poisonous substances, fire, explosive materials, and machinery, each carrying penalties of imprisonment or fines.\n6. Negligent construction or repair of buildings that could endanger lives, also subject to imprisonment or fines.\n\nOverall, the document emphasizes accountability for actions that pose risks to public safety in various contexts."
+                },
+                {
+                  "title": "Continuance of nuisance after injunction to discontinue.",
+                  "start_index": 75,
+                  "end_index": 76,
+                  "node_id": "0087",
+                  "summary": "The partial document outlines various legal provisions regarding punishments for negligent or reckless conduct that endangers human life or public safety. Key points include:\n\n1. **Rash Navigation**: Punishments for navigating vessels in a manner that endangers life, with penalties including imprisonment up to six months or fines up to ten thousand rupees.\n2. **False Exhibitions**: Severe penalties for exhibiting false lights or marks that mislead navigators, with imprisonment up to seven years and fines not less than ten thousand rupees.\n3. **Unsafe Conveyance**: Penalties for conveying individuals in unsafe or overloaded vessels, with similar imprisonment and fine terms as for rash navigation.\n4. **Public Safety Violations**: Fines for causing danger or obstruction in public ways or navigation lines.\n5. **Negligent Handling of Hazardous Materials**: Specific provisions for negligent conduct involving poisonous substances, fire, explosives, machinery, and construction activities, each carrying potential imprisonment and fines.\n6. **Animal Safety**: Punishments for failing to manage animals in a way that prevents danger to human life.\n7. **Public Nuisance**: Fines for committing public nuisances and for continuing such nuisances after being instructed to cease by authorities.\n8. **Obscenity Laws**: Detailed regulations regarding the sale, distribution, and possession of obscene materials, with escalating penalties for repeat offenses.\n\nOverall, the document emphasizes accountability for actions that pose risks to public safety and morality."
+                },
+                {
+                  "title": "Sale, etc., of obscene books, etc.",
+                  "start_index": 76,
+                  "end_index": 88,
+                  "node_id": "0088",
+                  "summary": "The partial document outlines various legal provisions related to offenses and their corresponding punishments. Key points include:\n\n1. **Negligent Conduct with Animals**: Individuals who fail to take necessary precautions with animals in their possession, leading to potential harm to humans, face imprisonment up to six months or fines up to five thousand rupees.\n\n2. **Public Nuisance**: Committing a public nuisance not otherwise punishable can result in fines up to one thousand rupees, while continuing a nuisance after an injunction can lead to imprisonment for up to six months or fines up to five thousand rupees.\n\n3. **Obscenity Laws**: The document defines what constitutes obscene material and outlines severe penalties for the sale, distribution, or possession of such materials, particularly when involving minors, with punishments ranging from fines to imprisonment for several years.\n\n4. **Offenses Against Religion**: It includes provisions against damaging places of worship or insulting religious sentiments, with penalties including imprisonment and fines.\n\n5. **Theft and Related Offenses**: Definitions of theft, including specific circumstances like theft in a dwelling or by a servant, are provided, along with corresponding punishments that can extend to several years of imprisonment.\n\n6. **Extortion and Robbery**: The document details the definitions and penalties for extortion and robbery, emphasizing the use of threats and violence, with severe consequences for armed robbery or dacoity.\n\n7. **Criminal Misappropriation and Breach of Trust**: Offenses related to the dishonest appropriation of property and breach of trust are defined, with penalties including imprisonment and fines.\n\n8. **Cheating and Fraud**: Various forms of cheating, including personation and fraudulent transactions, are outlined, with significant penalties for those who deceive others for personal gain.\n\n9. **Mischief**: The document describes acts that cause wrongful loss or damage to property, detailing the penalties based on the extent of damage caused.\n\nOverall, the document serves as a legal framework for addressing various offenses, emphasizing the protection of individuals and property, and outlining the consequences for violations."
+                },
+                {
+                  "title": "Sale, etc., of obscene objects to child.",
+                  "start_index": 88,
+                  "end_index": 76,
+                  "node_id": "0089",
+                  "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications, providing a comprehensive overview of the subject matter. The document likely aims to inform or persuade the reader by presenting a structured analysis and supporting details."
+                },
+                {
+                  "title": "Obscene acts and songs.",
+                  "start_index": 76,
+                  "end_index": 90,
+                  "node_id": "0090",
+                  "summary": "The partial document outlines various legal provisions related to offenses against public safety, obscenity, religion, property, and criminal conduct. Key points include:\n\n1. **Negligent Conduct with Animals**: Individuals failing to take necessary precautions with animals in their possession, leading to potential harm to humans, face imprisonment or fines.\n\n2. **Public Nuisance**: Punishments are specified for committing public nuisances, including fines and imprisonment for repeat offenders.\n\n3. **Obscenity Laws**: Detailed definitions and penalties for the sale, distribution, or possession of obscene materials, particularly concerning children, are provided, with severe penalties for repeat offenses.\n\n4. **Offenses Against Religion**: Provisions against damaging places of worship or insulting religious beliefs, with specified punishments for such acts.\n\n5. **Theft and Related Offenses**: Definitions of theft, including specific circumstances like theft in dwellings or involving transport, and the penalties associated with these offenses.\n\n6. **Extortion and Robbery**: Definitions and penalties for extortion and robbery, including the use of threats and violence.\n\n7. **Criminal Misappropriation and Breach of Trust**: Legal consequences for dishonestly misappropriating property or breaching trust, with varying penalties based on the nature of the offense.\n\n8. **Mischief**: Offenses related to causing damage or destruction to property, with escalating penalties based on the severity of the damage.\n\n9. **Criminal Trespass**: Definitions and penalties for entering or remaining on property unlawfully, including specific provisions for house-trespass and house-breaking.\n\nOverall, the document establishes a framework for addressing various criminal behaviors, emphasizing the protection of public safety, property rights, and religious sentiments."
+                },
+                {
+                  "title": "Keeping lottery office.",
+                  "start_index": 90,
+                  "end_index": 77,
+                  "node_id": "0091",
+                  "summary": "The partial document discusses key concepts and themes related to a specific topic, highlighting important points, arguments, and evidence. It may cover definitions, historical context, current trends, and implications, providing a comprehensive overview of the subject matter. The document likely aims to inform or persuade the reader by presenting a structured analysis and supporting details."
+                },
+                {
+                  "title": "Injuring or defiling place of worship with intent to insult religion of any class.",
+                  "start_index": 77,
+                  "end_index": 77,
+                  "node_id": "0092",
+                  "summary": "The partial document outlines various legal provisions related to offenses concerning obscenity and religion. It includes penalties for selling or distributing obscene objects to children, performing obscene acts in public, and operating unauthorized lottery offices. Additionally, it addresses offenses related to religion, such as the destruction or defilement of places of worship, insulting religious beliefs, and disturbing lawful religious assemblies. The document specifies the punishments for these offenses, which can include imprisonment and fines, depending on the severity and nature of the act."
+                },
+                {
+                  "title": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs.",
+                  "start_index": 77,
+                  "end_index": 77,
+                  "node_id": "0093",
+                  "summary": "The partial document outlines various legal provisions related to offenses concerning obscenity and religion. It includes penalties for selling or distributing obscene objects to children, performing obscene acts in public, and operating unauthorized lottery offices. Additionally, it addresses offenses related to religion, such as the destruction or defilement of places of worship, insulting religious beliefs, and disturbing lawful religious assemblies. The document specifies the punishments for these offenses, which can include imprisonment and fines, depending on the severity and nature of the act."
+                },
+                {
+                  "title": "Disturbing religious assembly.",
+                  "start_index": 77,
+                  "end_index": 84,
+                  "node_id": "0094",
+                  "summary": "The partial document outlines various legal provisions related to offenses against religion and property. Key points include:\n\n1. **Obscene Acts and Materials**: It specifies penalties for selling or distributing obscene objects to children, performing obscene acts in public, and singing or reciting obscene songs.\n\n2. **Religious Offenses**: It addresses the destruction or defilement of places of worship and sacred objects, with penalties for those who insult religious feelings or disturb religious assemblies.\n\n3. **Theft and Related Crimes**: The document defines theft, including specific circumstances such as theft in dwellings, by clerks or servants, and theft involving violence or threats. It also covers snatching and the penalties associated with these offenses.\n\n4. **Extortion**: It outlines the crime of extortion, detailing how threats can lead to the unlawful acquisition of property, along with corresponding punishments.\n\n5. **Robbery and Dacoity**: The text describes robbery as theft or extortion involving violence or threats, and defines dacoity as robbery committed by a group of five or more individuals, with severe penalties for both.\n\n6. **Criminal Misappropriation and Breach of Trust**: It includes provisions for dishonestly misappropriating property, particularly that belonging to deceased persons, and outlines the offense of criminal breach of trust, emphasizing the responsibilities of those entrusted with property.\n\nOverall, the document serves as a legal framework for addressing various offenses related to obscenity, religion, theft, extortion, robbery, and property misappropriation."
+                },
+                {
+                  "title": "Dishonest misappropriation of property possessed by deceased person at the time of his death.",
+                  "start_index": 84,
+                  "end_index": 84,
+                  "node_id": "0095",
+                  "summary": "The partial document discusses legal definitions and consequences related to the misappropriation of property. It outlines various scenarios where individuals (referred to as A) commit offenses by dishonestly appropriating property, such as cheques, purses, and valuable items, without attempting to identify the rightful owner. The document specifies that such actions constitute an offense under the law. It also addresses the misappropriation of property belonging to a deceased person, detailing the penalties for individuals who dishonestly convert such property for personal use. Additionally, it covers the concept of criminal breach of trust, highlighting the responsibilities of individuals entrusted with property and the legal repercussions for violating those responsibilities. The text includes explanations and illustrations to clarify these legal principles."
+                },
+                {
+                  "title": "Criminal breach of trust.",
+                  "start_index": 84,
+                  "end_index": 85,
+                  "node_id": "0096",
+                  "summary": "The partial document outlines legal provisions regarding the misappropriation and criminal breach of trust related to property. It details various scenarios where individuals (referred to as A) commit offenses by dishonestly appropriating property, such as cheques, purses, and valuable items, without attempting to identify the rightful owner. The document specifies penalties for such actions, including imprisonment and fines, particularly when the property belonged to a deceased person or was entrusted to the offender in a professional capacity. It also explains the concept of stolen property and the consequences for those who receive or retain such property knowingly. The text includes illustrations to clarify the application of these legal principles in different contexts."
+                },
+                {
+                  "title": "Of receiving stolen property.",
+                  "start_index": 85,
+                  "end_index": 86,
+                  "node_id": "0097",
+                  "summary": "The partial document discusses various scenarios of criminal breach of trust, detailing how individuals (referred to as A) commit this offense by dishonestly misappropriating property entrusted to them under different circumstances, such as being a warehouse-keeper, agent, revenue officer, or carrier. It outlines the legal consequences for such actions, including imprisonment terms and fines. Additionally, the document addresses the concept of receiving stolen property, defining it and specifying penalties for those who knowingly receive or deal in stolen goods. Lastly, it covers the definition of cheating, providing examples of deceptive practices that induce others to part with property or consent to actions that cause harm, along with the legal implications of such deceitful behavior."
+                },
+                {
+                  "title": "Of cheating.",
+                  "start_index": 86,
+                  "end_index": 87,
+                  "node_id": "0098",
+                  "summary": "The partial document outlines various legal provisions related to dacoity, cheating, and fraudulent activities. It specifies the punishments for individuals involved in receiving or dealing with stolen property, including life imprisonment or rigorous imprisonment for up to ten years, along with fines. It defines cheating as inducing someone to deliver property or consent to retain property through deception, with examples illustrating different forms of cheating, such as impersonation and fraudulent misrepresentation. The document also addresses fraudulent deeds and dispositions of property, detailing penalties for actions that prevent the lawful distribution of property among creditors or involve false statements in property transactions. Overall, it emphasizes the legal consequences of dishonesty and fraud in property dealings."
+                },
+                {
+                  "title": "Cheating by personation.",
+                  "start_index": 87,
+                  "end_index": 88,
+                  "node_id": "0099",
+                  "summary": "The partial document outlines various legal provisions related to cheating, fraud, and mischief. It begins with a scenario where an individual (A) sells property to one party (B) but subsequently sells or mortgages the same property to another party (Z) without disclosure, constituting cheating. The document specifies penalties for cheating, including imprisonment and fines, with varying terms based on the severity of the offense. It details cheating by personation, where an individual pretends to be someone else, and the associated penalties. Additionally, it addresses fraudulent actions involving the concealment or removal of property to prevent lawful distribution among creditors, as well as the dishonest execution of deeds containing false statements. The document also defines mischief, which involves causing wrongful loss or damage to property, and outlines the penalties for such actions based on the extent of the damage caused. Overall, the document serves to delineate the legal consequences of dishonest and fraudulent behaviors in property transactions and related offenses."
+                },
+                {
+                  "title": "Of fraudulent deeds and dispositions of property.",
+                  "start_index": 88,
+                  "end_index": 89,
+                  "node_id": "0100",
+                  "summary": "The partial document outlines legal provisions regarding dishonest or fraudulent actions related to property and the offense of mischief. It specifies that individuals who conceal or remove property dishonestly can face imprisonment for up to three years or fines. The document defines mischief as actions intended to cause wrongful loss or damage to property, regardless of ownership, and provides various examples illustrating this offense. Punishments for mischief vary based on the severity of the damage caused, with penalties ranging from six months to five years of imprisonment, depending on the value of the damage. Additionally, specific acts of mischief that endanger public safety, such as damaging transportation infrastructure or causing harm to animals, carry more severe penalties, including life imprisonment for particularly egregious acts."
+                },
+                {
+                  "title": "Of mischief.",
+                  "start_index": 89,
+                  "end_index": 90,
+                  "node_id": "0101",
+                  "summary": "The partial document outlines various offenses related to mischief and criminal trespass, detailing the punishments associated with each. It specifies that mischief involving preparation to cause harm, damage to animals, or disruption of essential services (like water supply) can lead to imprisonment of up to five years and fines. More severe acts, such as causing damage with fire or explosives, particularly to buildings or vessels, can result in longer sentences, including life imprisonment. The document also defines criminal trespass, including house-trespass, and outlines the penalties for entering or remaining on someone else's property with the intent to commit an offense or cause annoyance. Specific provisions for house-breaking and lurking house-trespass are also included, detailing the methods by which such offenses can be committed."
+                },
+                {
+                  "title": "Of criminal trespass.",
+                  "start_index": 90,
+                  "end_index": 91,
+                  "node_id": "0102",
+                  "summary": "The partial document outlines legal provisions regarding various forms of criminal activity, specifically focusing on the offenses of intentionally running a vessel aground with the intent to commit theft, criminal trespass, house-trespass, and house-breaking. Key points include:\n\n1. **Punishment for Running a Vessel Aground**: Individuals who intentionally run a vessel aground with the intent to commit theft or misappropriate property can face imprisonment for up to ten years and fines.\n\n2. **Definition of Criminal Trespass**: Criminal trespass is defined as entering or remaining on someone else's property with the intent to commit an offense or to intimidate or annoy the property owner. \n\n3. **House-Trespass**: A specific form of criminal trespass involving entry into buildings or dwellings, with penalties including imprisonment for up to one year or fines.\n\n4. **Lurking House-Trespass**: This refers to committing house-trespass while concealing oneself from the rightful owner, with increased penalties for such actions.\n\n5. **House-Breaking**: Defined as entering a house through unauthorized means, with various methods outlined that constitute house-breaking, each carrying specific legal consequences.\n\n6. **Penalties for Lurking House-Trespass and House-Breaking**: The document details escalating penalties based on the time of day the offense is committed and the intent behind the act, with potential imprisonment terms extending up to fourteen years for serious offenses.\n\nOverall, the document establishes a framework for addressing and penalizing various forms of property-related crimes, emphasizing the severity of offenses involving theft and trespass."
+                },
+                {
+                  "title": "Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.",
+                  "start_index": 91,
+                  "end_index": 92,
+                  "node_id": "0103",
+                  "summary": "The partial document outlines legal definitions and consequences related to house-trespass and house-breaking. It specifies that any out-house or building connected to a house is considered part of the house for legal purposes. Various scenarios illustrating house-trespass and house-breaking are provided, detailing actions that constitute these offenses, such as entering through walls, windows, or doors, and using force or deception. The document also delineates punishments for different degrees of house-trespass and house-breaking, with penalties increasing based on factors like the time of day, intent to commit further crimes, and preparation to cause harm. Additionally, it addresses the consequences of causing grievous hurt during these offenses and outlines penalties for dishonestly breaking open receptacles containing property. Lastly, it introduces the concept of making false documents or electronic records with fraudulent intent."
+                },
+                {
+                  "title": "Of offences relating to documents and to property marks.",
+                  "start_index": 92,
+                  "end_index": 102,
+                  "node_id": "0104",
+                  "summary": "The partial document outlines various legal provisions related to house-trespass, grievous hurt, and forgery. It specifies punishments for individuals committing lurking house-trespass or house-breaking, particularly when causing grievous hurt or attempting to cause death. It details the consequences of house-trespass in relation to other offenses, including theft and assault, and establishes penalties for dishonestly breaking open receptacles containing property. The document also defines forgery, including the creation of false documents and electronic records, and outlines the penalties for such actions, which can include imprisonment and fines. Additionally, it addresses the counterfeiting of property marks and the implications of using false property marks. The document further discusses criminal intimidation, defamation, and breach of contract concerning the care of helpless individuals, concluding with provisions for the repeal of the Indian Penal Code and the transition to new legal frameworks."
+                },
+                {
+                  "title": "Of breach of contract to attend on and supply wants of helpless person.",
+                  "start_index": 102,
+                  "end_index": 102,
+                  "node_id": "0105",
+                  "summary": "The partial document outlines legal provisions regarding the breach of contract to attend to and supply the needs of helpless individuals, specifying penalties for non-compliance. It states that individuals bound by a lawful contract to care for those unable to provide for themselves due to youth, mental unsoundness, disease, or bodily weakness may face imprisonment for up to three months, a fine of up to five thousand rupees, or both if they fail to fulfill their obligations. Additionally, the document includes a section on the repeal of the Indian Penal Code, detailing that the repeal does not affect prior actions, rights, obligations, or penalties incurred under the repealed code, and clarifies that actions taken under the old code are considered valid under the new provisions."
+                },
+                {
+                  "title": "Repeal and savings.",
+                  "start_index": 102,
+                  "end_index": 102,
+                  "node_id": "0106",
+                  "summary": "The partial document outlines legal provisions regarding the breach of contract to attend to and supply the needs of helpless individuals, specifying penalties for non-compliance. It states that individuals bound by a lawful contract to care for those unable to provide for themselves due to youth, mental unsoundness, disease, or bodily weakness may face imprisonment for up to three months, a fine of up to five thousand rupees, or both if they fail to fulfill their obligations. Additionally, the document includes a section on the repeal of the Indian Penal Code, detailing that the repeal does not affect prior actions, rights, obligations, or penalties incurred under the repealed code, and clarifies that actions taken under the old code are considered valid under the new provisions."
+                }
+              ],
+              "node_id": "0046",
+              "summary": "The partial document outlines legal definitions and consequences related to assault, criminal force, kidnapping, and abduction. It explains that mere words do not constitute an assault, but can contribute to gestures that do. Various scenarios illustrate how actions combined with intent can lead to an assault charge. The document specifies punishments for different types of assault, including those against public servants, with intent to dishonor, during theft attempts, and wrongful confinement. It also addresses the concept of grave and sudden provocation and its implications for mitigating punishment. Additionally, it defines kidnapping and abduction, detailing the legal repercussions for kidnapping from India or lawful guardianship, and the severe penalties for using children for begging or causing them harm for such purposes."
+            }
+          ],
+          "node_id": "0025",
+          "summary": "The partial document outlines legal provisions regarding the concealment of criminal designs, criminal conspiracy, and the punishment for attempts to commit offenses. It specifies that individuals who intentionally conceal the existence of a design to commit an offense or make false representations can be punished with imprisonment or fines. The document defines criminal conspiracy as an agreement between two or more persons to commit an illegal act or to use illegal means for a legal act, requiring some action beyond mere agreement for it to be considered a conspiracy. Punishments for being part of a conspiracy vary based on the severity of the intended offense. Additionally, it addresses the consequences of attempting to commit an offense, detailing that individuals who take steps towards committing an offense can be punished similarly to those who successfully commit the offense, with specific terms of imprisonment or fines outlined."
+        }
+      ],
+      "node_id": "0000",
+      "summary": "The partial document outlines the Bharatiya Nyaya Sanhita, 2023, an Act enacted by the Parliament of India to consolidate and amend provisions related to offences and associated matters. It specifies the short title of the Act, its commencement date, and the application of its provisions. The document indicates that the Act received presidential assent on December 25, 2023, and will come into force on a date appointed by the Central Government, with the possibility of different dates for various provisions. It is published by the Ministry of Law and Justice for general information."
+    }
+  ]
+}

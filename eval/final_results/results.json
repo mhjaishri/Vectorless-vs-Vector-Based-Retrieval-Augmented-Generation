@@ -1,0 +1,20 @@
+{
+  "pageindex_rag": {
+    "context_precision": 0.7971,
+    "context_recall": 0.843,
+    "hit_rate": 0.8636,
+    "faithfulness": 0.6527,
+    "answer_correctness": 0.6849,
+    "semantic_similarity": 0.8065,
+    "per_question": []
+  },
+  "vector_graph_rag": {
+    "context_precision": 0.6813,
+    "context_recall": 0.6083,
+    "hit_rate": 0.6817,
+    "faithfulness": 0.7331,
+    "answer_correctness": 0.7676,
+    "semantic_similarity": 0.8647,
+    "per_question": []
+  }
+}

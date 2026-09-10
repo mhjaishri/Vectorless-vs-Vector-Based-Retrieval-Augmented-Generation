@@ -1,0 +1,772 @@
+[
+  {
+    "id": "q001",
+    "question": "What does the Preamble declare India to be?",
+    "ground_truth_answer": "The Preamble declares India to be a Sovereign Socialist Secular Democratic Republic.",
+    "ground_truth_sources": ["Preamble"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q002",
+    "question": "What four objectives does the Preamble seek to secure for all citizens?",
+    "ground_truth_answer": "The Preamble seeks to secure Justice (social, economic and political), Liberty (of thought, expression, belief, faith and worship), Equality (of status and of opportunity), and to promote Fraternity assuring the dignity of the individual and the unity and integrity of the Nation.",
+    "ground_truth_sources": ["Preamble"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q003",
+    "question": "What is the official name of India according to Article 1?",
+    "ground_truth_answer": "According to Article 1, India, that is Bharat, shall be a Union of States.",
+    "ground_truth_sources": ["Article 1"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q004",
+    "question": "Under Article 3, which body has the power to form new States or alter the boundaries of existing States?",
+    "ground_truth_answer": "Under Article 3, Parliament has the power by law to form new States and to alter the areas, boundaries or names of existing States.",
+    "ground_truth_sources": ["Article 3"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q005",
+    "question": "What does Article 12 define as 'the State' for the purposes of Part III?",
+    "ground_truth_answer": "Article 12 defines 'the State' as including the Government and Parliament of India, the Government and the Legislature of each of the States, and all local or other authorities within the territory of India or under the control of the Government of India.",
+    "ground_truth_sources": ["Article 12"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q006",
+    "question": "What does Article 13 provide regarding laws inconsistent with Fundamental Rights?",
+    "ground_truth_answer": "Article 13 provides that all laws in force before the commencement of the Constitution, to the extent they are inconsistent with Fundamental Rights, shall be void. It also prohibits the State from making any law that takes away or abridges the rights conferred by Part III, and any such law shall be void to the extent of the contravention.",
+    "ground_truth_sources": ["Article 13"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q007",
+    "question": "What right does Article 14 guarantee?",
+    "ground_truth_answer": "Article 14 guarantees that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+    "ground_truth_sources": ["Article 14"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q008",
+    "question": "On what grounds does Article 15 prohibit discrimination by the State?",
+    "ground_truth_answer": "Article 15 prohibits the State from discriminating against any citizen on grounds only of religion, race, caste, sex, or place of birth.",
+    "ground_truth_sources": ["Article 15"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q009",
+    "question": "What does Article 16 guarantee with respect to public employment?",
+    "ground_truth_answer": "Article 16 guarantees equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State, and prohibits discrimination on grounds of religion, race, caste, sex, descent, place of birth, or residence.",
+    "ground_truth_sources": ["Article 16"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q010",
+    "question": "What does Article 17 abolish?",
+    "ground_truth_answer": "Article 17 abolishes untouchability and forbids its practice in any form. The enforcement of any disability arising out of untouchability is declared an offence punishable in accordance with law.",
+    "ground_truth_sources": ["Article 17"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q011",
+    "question": "What does Article 18 provide regarding titles?",
+    "ground_truth_answer": "Article 18 abolishes titles. The State shall not confer any title other than a military or academic distinction. No citizen of India shall accept any title from any foreign State.",
+    "ground_truth_sources": ["Article 18"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q012",
+    "question": "What freedoms are guaranteed under Article 19(1)?",
+    "ground_truth_answer": "Article 19(1) guarantees to all citizens the right to freedom of speech and expression; to assemble peaceably and without arms; to form associations or unions or co-operative societies; to move freely throughout the territory of India; to reside and settle in any part of India; and to practise any profession or to carry on any occupation, trade or business.",
+    "ground_truth_sources": ["Article 19"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q013",
+    "question": "On what grounds can the State impose reasonable restrictions on freedom of speech under Article 19(2)?",
+    "ground_truth_answer": "Under Article 19(2), the State may impose reasonable restrictions on freedom of speech and expression in the interests of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.",
+    "ground_truth_sources": ["Article 19"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q014",
+    "question": "What does Article 20 protect against in the context of conviction for offences?",
+    "ground_truth_answer": "Article 20 protects persons against ex post facto laws (no person shall be convicted of an offence for an act not punishable at the time of commission), double jeopardy (no person shall be prosecuted and punished for the same offence more than once), and self-incrimination (no person accused of an offence shall be compelled to be a witness against himself).",
+    "ground_truth_sources": ["Article 20"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q015",
+    "question": "What does Article 21 guarantee?",
+    "ground_truth_answer": "Article 21 guarantees that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "ground_truth_sources": ["Article 21"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q016",
+    "question": "What does Article 21A provide?",
+    "ground_truth_answer": "Article 21A provides that the State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.",
+    "ground_truth_sources": ["Article 21A"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q017",
+    "question": "What are the rights of an arrested person under Article 22?",
+    "ground_truth_answer": "Under Article 22, every arrested person has the right to be informed of the grounds of arrest, the right to consult and be defended by a legal practitioner of his choice, and must be produced before the nearest magistrate within 24 hours of arrest. No person shall be detained in custody beyond that period without the authority of a magistrate.",
+    "ground_truth_sources": ["Article 22"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q018",
+    "question": "What does Article 23 prohibit?",
+    "ground_truth_answer": "Article 23 prohibits traffic in human beings, begar (forced labour), and other similar forms of forced labour, declaring any contravention to be an offence punishable in accordance with law.",
+    "ground_truth_sources": ["Article 23"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q019",
+    "question": "What does Article 24 prohibit?",
+    "ground_truth_answer": "Article 24 prohibits the employment of children below the age of fourteen years in any factory, mine, or other hazardous employment.",
+    "ground_truth_sources": ["Article 24"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q020",
+    "question": "What does Article 25 guarantee regarding religion?",
+    "ground_truth_answer": "Article 25 guarantees to all persons freedom of conscience and the right freely to profess, practise and propagate religion, subject to public order, morality and health, and to the other provisions of Part III.",
+    "ground_truth_sources": ["Article 25"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q021",
+    "question": "What does Article 26 guarantee to religious denominations?",
+    "ground_truth_answer": "Article 26 guarantees to every religious denomination or any section thereof the right to establish and maintain institutions for religious and charitable purposes, to manage its own affairs in matters of religion, to own and acquire movable and immovable property, and to administer such property in accordance with law.",
+    "ground_truth_sources": ["Article 26"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q022",
+    "question": "What does Article 29 protect?",
+    "ground_truth_answer": "Article 29 protects the interests of minorities by providing that any section of citizens residing in India having a distinct language, script or culture of its own shall have the right to conserve the same. It also provides that no citizen shall be denied admission into any educational institution maintained by the State or receiving State aid on grounds only of religion, race, caste, language or any of them.",
+    "ground_truth_sources": ["Article 29"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q023",
+    "question": "What right does Article 30 confer on minorities?",
+    "ground_truth_answer": "Article 30 confers on all minorities, whether based on religion or language, the right to establish and administer educational institutions of their choice. It also provides that in granting aid, the State shall not discriminate against any educational institution managed by a minority.",
+    "ground_truth_sources": ["Article 30"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q024",
+    "question": "What does Article 32 provide and why is it significant?",
+    "ground_truth_answer": "Article 32 guarantees the right to move the Supreme Court for the enforcement of the Fundamental Rights conferred by Part III. The Supreme Court shall have power to issue directions, orders or writs including writs of habeas corpus, mandamus, prohibition, quo warranto and certiorari for this purpose. Dr. Ambedkar called Article 32 the heart and soul of the Constitution.",
+    "ground_truth_sources": ["Article 32"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q025",
+    "question": "What writs can the Supreme Court issue under Article 32?",
+    "ground_truth_answer": "Under Article 32, the Supreme Court can issue directions, orders, or writs including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto, and certiorari.",
+    "ground_truth_sources": ["Article 32"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q026",
+    "question": "What does Article 37 state about the applicability of Directive Principles?",
+    "ground_truth_answer": "Article 37 states that the provisions contained in Part IV (Directive Principles) shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.",
+    "ground_truth_sources": ["Article 37"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q027",
+    "question": "What does Article 39A direct the State to provide?",
+    "ground_truth_answer": "Article 39A directs the State to ensure that the operation of the legal system promotes justice on a basis of equal opportunity, and shall, in particular, provide free legal aid by suitable legislation or schemes to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.",
+    "ground_truth_sources": ["Article 39A"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q028",
+    "question": "What does Article 44 direct the State to endeavour to secure?",
+    "ground_truth_answer": "Article 44 directs the State to endeavour to secure for the citizens a Uniform Civil Code throughout the territory of India.",
+    "ground_truth_sources": ["Article 44"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q029",
+    "question": "How many Fundamental Duties are listed in Article 51A and when was this article added?",
+    "ground_truth_answer": "Article 51A lists eleven Fundamental Duties. Originally ten duties were inserted by the 42nd Constitutional Amendment Act, 1976. The eleventh duty — relating to a parent or guardian to provide opportunities for education to a child — was added by the 86th Constitutional Amendment Act, 2002.",
+    "ground_truth_sources": ["Article 51A"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q030",
+    "question": "Who is the executive head of the Union of India according to Article 52 and Article 53?",
+    "ground_truth_answer": "According to Article 52, there shall be a President of India. Article 53 vests the executive power of the Union in the President, who shall exercise it either directly or through officers subordinate to him in accordance with the Constitution.",
+    "ground_truth_sources": ["Article 52", "Article 53"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q031",
+    "question": "How is the President of India elected according to Article 54?",
+    "ground_truth_answer": "According to Article 54, the President shall be elected by the members of an electoral college consisting of the elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of the States and the Union Territories of Delhi and Puducherry.",
+    "ground_truth_sources": ["Article 54"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q032",
+    "question": "What are the qualifications to be elected President under Article 58?",
+    "ground_truth_answer": "Under Article 58, a person shall be eligible for election as President only if he is a citizen of India, has completed the age of thirty-five years, and is qualified for election as a member of the House of the People.",
+    "ground_truth_sources": ["Article 58"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q033",
+    "question": "What is the term of office of the President under Article 56?",
+    "ground_truth_answer": "Under Article 56, the President shall hold office for a term of five years from the date on which he enters upon his office.",
+    "ground_truth_sources": ["Article 56"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q034",
+    "question": "Under what Article and on what grounds can the President be impeached?",
+    "ground_truth_answer": "Under Article 61, the President may be impeached for violation of the Constitution. The charge must be initiated by either House of Parliament, passed by a majority of not less than two-thirds of the total membership of the House, and then investigated and upheld by the other House.",
+    "ground_truth_sources": ["Article 61"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q035",
+    "question": "What is the composition of Parliament as stated in Article 79?",
+    "ground_truth_answer": "Article 79 states that there shall be a Parliament for the Union which shall consist of the President and two Houses — the Council of States (Rajya Sabha) and the House of the People (Lok Sabha).",
+    "ground_truth_sources": ["Article 79"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q036",
+    "question": "What is the maximum strength of the Rajya Sabha under Article 80?",
+    "ground_truth_answer": "Under Article 80, the Council of States (Rajya Sabha) shall consist of not more than two hundred and fifty members, of whom twelve are nominated by the President and the remaining members are representatives of the States and Union Territories.",
+    "ground_truth_sources": ["Article 80"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q037",
+    "question": "What is the maximum strength of the Lok Sabha under Article 81?",
+    "ground_truth_answer": "Under Article 81, the House of the People (Lok Sabha) shall consist of not more than five hundred and thirty members chosen by direct election from territorial constituencies in the States and not more than twenty members to represent Union Territories.",
+    "ground_truth_sources": ["Article 81"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q038",
+    "question": "What is the normal duration of the Lok Sabha under Article 83?",
+    "ground_truth_answer": "Under Article 83, the House of the People (Lok Sabha) shall continue for five years from the date appointed for its first sitting, unless dissolved sooner. During a Proclamation of Emergency, this period may be extended by Parliament by law for a period not exceeding one year at a time.",
+    "ground_truth_sources": ["Article 83"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q039",
+    "question": "What are the qualifications for membership of Parliament under Article 84?",
+    "ground_truth_answer": "Under Article 84, a person must be a citizen of India, make and subscribe to an oath or affirmation as prescribed, and be not less than thirty years of age for the Rajya Sabha or not less than twenty-five years of age for the Lok Sabha. He must also possess such other qualifications as may be prescribed by Parliament by law.",
+    "ground_truth_sources": ["Article 84"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q040",
+    "question": "What does Article 100 state about voting in Parliament?",
+    "ground_truth_answer": "Article 100 provides that all questions at any sitting of either House or joint sitting of both Houses shall be determined by a majority of votes of the members present and voting, other than the Speaker or person acting as Chairman. The Speaker or Chairman shall not vote in the first instance but shall have and exercise a casting vote in the case of an equality of votes.",
+    "ground_truth_sources": ["Article 100"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q041",
+    "question": "What does Article 108 provide for regarding joint sittings of both Houses?",
+    "ground_truth_answer": "Article 108 provides for a joint sitting of both Houses of Parliament in case of a deadlock over a Bill (other than a Money Bill or Constitution Amendment Bill). The President may summon both Houses to meet in a joint sitting for the purpose of deliberating and voting on the Bill.",
+    "ground_truth_sources": ["Article 108"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q042",
+    "question": "What is a Money Bill as defined in Article 110?",
+    "ground_truth_answer": "Under Article 110, a Bill is deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters: the imposition, abolition, remission, alteration or regulation of any tax; the regulation of borrowing by the Government; the Consolidated Fund or the Contingency Fund of India; the appropriation of money; declaring expenditure to be expenditure charged on the Consolidated Fund; the receipt of money on account of the Consolidated Fund or the public account of India; or any matter incidental thereto.",
+    "ground_truth_sources": ["Article 110"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q043",
+    "question": "What is the procedure for a Money Bill under Article 109?",
+    "ground_truth_answer": "Under Article 109, a Money Bill shall not be introduced in the Rajya Sabha. After it is passed by the Lok Sabha and transmitted to the Rajya Sabha, the Rajya Sabha shall within fourteen days return the Bill with its recommendations. The Lok Sabha may accept or reject all or any of the recommendations. If the Rajya Sabha does not return the Bill within fourteen days, it shall be deemed to have been passed by both Houses.",
+    "ground_truth_sources": ["Article 109"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q044",
+    "question": "What does Article 112 require the President to lay before Parliament?",
+    "ground_truth_answer": "Article 112 requires the President to cause to be laid before both Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for each financial year, referred to as the Annual Financial Statement (the Union Budget).",
+    "ground_truth_sources": ["Article 112"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q045",
+    "question": "What is the composition and role of the Supreme Court as provided in Articles 124 and 141?",
+    "ground_truth_answer": "Article 124 establishes the Supreme Court of India, consisting of a Chief Justice of India and not more than such number of other Judges as Parliament may by law prescribe. Article 141 provides that the law declared by the Supreme Court shall be binding on all courts within the territory of India.",
+    "ground_truth_sources": ["Article 124", "Article 141"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q046",
+    "question": "What are the qualifications for appointment as a Judge of the Supreme Court under Article 124?",
+    "ground_truth_answer": "Under Article 124, a person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and has been for at least five years a Judge of a High Court or of two or more such Courts in succession, or has been an advocate of a High Court or two or more such Courts in succession for at least ten years, or is, in the opinion of the President, a distinguished jurist.",
+    "ground_truth_sources": ["Article 124"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q047",
+    "question": "On what grounds and by what procedure can a Supreme Court Judge be removed under Article 124(4)?",
+    "ground_truth_answer": "Under Article 124(4), a Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members present and voting, on grounds of proved misbehaviour or incapacity.",
+    "ground_truth_sources": ["Article 124"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q048",
+    "question": "What is the original jurisdiction of the Supreme Court under Article 131?",
+    "ground_truth_answer": "Article 131 grants the Supreme Court exclusive original jurisdiction in any dispute between the Government of India and one or more States, or between two or more States, where the dispute involves a question of law or fact on which the existence or extent of a legal right depends.",
+    "ground_truth_sources": ["Article 131"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q049",
+    "question": "What does Article 143 empower the President to do?",
+    "ground_truth_answer": "Article 143 empowers the President to refer to the Supreme Court any question of law or fact that appears to him to be of public importance for its advisory opinion. The Supreme Court, after hearing as it thinks fit, may report to the President its opinion thereon.",
+    "ground_truth_sources": ["Article 143"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q050",
+    "question": "What does Article 148 establish and what is the tenure of that office?",
+    "ground_truth_answer": "Article 148 establishes the office of the Comptroller and Auditor-General of India. The Comptroller and Auditor-General shall hold office until he attains the age of sixty-five years and shall not be eligible for further office under the Government of India or of any State after he ceases to hold office.",
+    "ground_truth_sources": ["Article 148"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q051",
+    "question": "What does Article 155 state about the appointment of the Governor of a State?",
+    "ground_truth_answer": "Article 155 states that the Governor of a State shall be appointed by the President by warrant under his hand and seal.",
+    "ground_truth_sources": ["Article 155"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q052",
+    "question": "What is the term of office of a Governor under Article 156?",
+    "ground_truth_answer": "Under Article 156, the Governor shall hold office during the pleasure of the President. Subject to this, a Governor shall hold office for a term of five years from the date on which he enters upon his office.",
+    "ground_truth_sources": ["Article 156"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q053",
+    "question": "What qualifications are required to be appointed as a Governor under Article 157?",
+    "ground_truth_answer": "Under Article 157, a person shall not be eligible for appointment as a Governor unless he is a citizen of India and has completed the age of thirty-five years.",
+    "ground_truth_sources": ["Article 157"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q054",
+    "question": "What does Article 161 empower the Governor to do?",
+    "ground_truth_answer": "Article 161 empowers the Governor of a State to grant pardons, reprieves, respites or remissions of punishment, or to suspend, remit or commute the sentence of any person convicted of any offence against any law relating to a matter to which the executive power of the State extends.",
+    "ground_truth_sources": ["Article 161"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q055",
+    "question": "What does Article 165 provide regarding the Advocate General of a State?",
+    "ground_truth_answer": "Article 165 provides that the Governor of each State shall appoint a person who is qualified to be appointed a Judge of a High Court to be Advocate General for the State. The Advocate General shall give advice to the Government of the State upon such legal matters and perform such other duties of a legal character as may be referred to him by the Governor.",
+    "ground_truth_sources": ["Article 165"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q056",
+    "question": "What does Article 213 empower the Governor to do when the State Legislature is not in session?",
+    "ground_truth_answer": "Article 213 empowers the Governor to promulgate Ordinances when both Houses of the State Legislature are not in session and the Governor is satisfied that circumstances exist requiring immediate action. Such an Ordinance shall have the same force and effect as an Act of the State Legislature.",
+    "ground_truth_sources": ["Article 213"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q057",
+    "question": "What does Article 226 empower High Courts to do?",
+    "ground_truth_answer": "Article 226 empowers every High Court to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, to any person or authority including the Government, for the enforcement of any of the rights conferred by Part III or for any other purpose.",
+    "ground_truth_sources": ["Article 226"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q058",
+    "question": "What does Article 245 state about the territorial extent of laws made by Parliament?",
+    "ground_truth_answer": "Article 245 states that Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State. No law made by Parliament shall be deemed to be invalid on the ground that it would have extra-territorial operation.",
+    "ground_truth_sources": ["Article 245"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q059",
+    "question": "What are the three legislative lists under Article 246 and what does each contain?",
+    "ground_truth_answer": "Article 246 provides for three lists in the Seventh Schedule. List I (Union List) contains subjects on which only Parliament can legislate. List II (State List) contains subjects on which only State Legislatures can legislate. List III (Concurrent List) contains subjects on which both Parliament and State Legislatures can legislate, but Parliament's law prevails in case of conflict.",
+    "ground_truth_sources": ["Article 246"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q060",
+    "question": "What does Article 265 provide regarding taxation?",
+    "ground_truth_answer": "Article 265 provides that no tax shall be levied or collected except by authority of law.",
+    "ground_truth_sources": ["Article 265"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q061",
+    "question": "What does Article 300A state?",
+    "ground_truth_answer": "Article 300A states that no person shall be deprived of his property save by authority of law.",
+    "ground_truth_sources": ["Article 300A"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q062",
+    "question": "What does Article 324 provide regarding elections?",
+    "ground_truth_answer": "Article 324 provides that the superintendence, direction and control of the preparation of electoral rolls and the conduct of elections to Parliament and to the Legislature of every State, and of elections to the offices of President and Vice-President, shall be vested in the Election Commission.",
+    "ground_truth_sources": ["Article 324"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q063",
+    "question": "What does Article 326 provide regarding elections to the Lok Sabha and State Legislative Assemblies?",
+    "ground_truth_answer": "Article 326 provides that elections to the House of the People and to the Legislative Assembly of every State shall be on the basis of adult suffrage, meaning every person who is a citizen of India and who is not less than eighteen years of age on such date as may be fixed in that behalf by the appropriate authority shall be entitled to be registered as a voter.",
+    "ground_truth_sources": ["Article 326"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q064",
+    "question": "What does Article 343 declare as the official language of the Union?",
+    "ground_truth_answer": "Article 343 declares that the official language of the Union shall be Hindi in Devanagari script. The form of numerals to be used for the official purposes of the Union shall be the international form of Indian numerals.",
+    "ground_truth_sources": ["Article 343"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q065",
+    "question": "Under what circumstances can the President proclaim a National Emergency under Article 352?",
+    "ground_truth_answer": "Under Article 352, the President may proclaim a National Emergency if he is satisfied that the security of India or of any part of the territory thereof is threatened whether by war, or external aggression, or armed rebellion. Such a proclamation may be issued even before the actual occurrence of the threat.",
+    "ground_truth_sources": ["Article 352"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q066",
+    "question": "What is the effect of a National Emergency on Fundamental Rights under Articles 358 and 359?",
+    "ground_truth_answer": "During a National Emergency proclaimed under Article 352, Article 358 provides that Article 19 (freedoms) is automatically suspended for the duration of the emergency if it is on grounds of war or external aggression. Article 359 further empowers the President to suspend the right to move any court for the enforcement of Fundamental Rights (except Articles 20 and 21) by order.",
+    "ground_truth_sources": ["Article 358", "Article 359"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q067",
+    "question": "What does Article 356 provide for and when can it be invoked?",
+    "ground_truth_answer": "Article 356 provides for President's Rule in a State. If the President is satisfied, on receipt of a report from the Governor or otherwise, that the government of the State cannot be carried on in accordance with the provisions of the Constitution, he may by Proclamation assume to himself all or any of the functions of the Government of that State.",
+    "ground_truth_sources": ["Article 356"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q068",
+    "question": "What does Article 360 provide for?",
+    "ground_truth_answer": "Article 360 provides for proclamation of a Financial Emergency. If the President is satisfied that the financial stability or credit of India or of any part thereof is threatened, he may by a Proclamation make a declaration to that effect.",
+    "ground_truth_sources": ["Article 360"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q069",
+    "question": "What does Article 368 provide for and what are the two procedures for constitutional amendment?",
+    "ground_truth_answer": "Article 368 provides for the power of Parliament to amend the Constitution. The general procedure requires the amendment Bill to be passed in each House by a majority of the total membership of that House and by a majority of not less than two-thirds of the members present and voting. Certain provisions additionally require ratification by the Legislatures of not less than one-half of the States before being presented to the President for assent.",
+    "ground_truth_sources": ["Article 368"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q070",
+    "question": "What is the official language of the Supreme Court and High Courts under Article 348?",
+    "ground_truth_answer": "Article 348 provides that all proceedings in the Supreme Court and in every High Court shall be in English, and all Bills introduced in Parliament or the Legislature of a State, Acts of Parliament and State Legislatures, and all orders, rules, regulations and by-laws issued under this Constitution shall be in English, unless Parliament by law otherwise provides.",
+    "ground_truth_sources": ["Article 348"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q071",
+    "question": "What is the difference between Fundamental Rights under Part III and Directive Principles under Part IV of the Constitution?",
+    "ground_truth_answer": "Fundamental Rights under Part III are justiciable — they are enforceable by courts and any law violating them can be struck down (Article 13). Directive Principles under Part IV are non-justiciable — they are not enforceable by any court (Article 37). However, DPSPs are fundamental in the governance of the country and it is the duty of the State to apply them in making laws. Courts have held that both must be read harmoniously, and the State may restrict Fundamental Rights to implement DPSPs, subject to the basic structure doctrine.",
+    "ground_truth_sources": ["Article 13", "Article 37"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q072",
+    "question": "What is the doctrine of 'procedure established by law' versus 'due process of law' in the context of Article 21?",
+    "ground_truth_answer": "Article 21 uses the phrase 'procedure established by law' rather than 'due process of law'. This originally meant that deprivation of life or liberty was valid if there existed any law and a procedure under that law, regardless of whether that law was fair or reasonable. However, the Supreme Court in Maneka Gandhi v. Union of India (1978) expanded Article 21 to hold that the procedure must be right, just and fair — not arbitrary, fanciful or oppressive — effectively reading substantive due process into Article 21.",
+    "ground_truth_sources": ["Article 21"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q073",
+    "question": "What is the basic structure doctrine and which articles are considered part of the basic structure?",
+    "ground_truth_answer": "The basic structure doctrine, established in Kesavananda Bharati v. State of Kerala (1973), holds that Parliament cannot amend the Constitution under Article 368 in a manner that destroys or abrogates its basic structure. While the Constitution does not explicitly list basic features, the Supreme Court has identified elements such as the supremacy of the Constitution, the republican and democratic form of government, the secular character, separation of powers, federalism, judicial review, and the protection of Fundamental Rights as forming part of the basic structure.",
+    "ground_truth_sources": ["Article 368"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q074",
+    "question": "What is the significance of Article 19(1)(a) and what are the permitted restrictions under Article 19(2)?",
+    "ground_truth_answer": "Article 19(1)(a) guarantees freedom of speech and expression to all citizens. It is the cornerstone of democratic discourse. Article 19(2) permits the State to impose reasonable restrictions on this right in the interests of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, or incitement to an offence. The restrictions must be reasonable, meaning they must have a rational nexus to the objective and must not be excessive.",
+    "ground_truth_sources": ["Article 19"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q075",
+    "question": "What is the scope of Article 32 as compared to Article 226, and how do they differ?",
+    "ground_truth_answer": "Article 32 is a Fundamental Right itself and empowers the Supreme Court to issue writs for enforcement of Fundamental Rights only. It cannot be suspended except during an Emergency under Article 359. Article 226 empowers High Courts to issue writs for enforcement of Fundamental Rights as well as for any other purpose, giving them a wider jurisdiction. However, the Supreme Court under Article 32 hears matters of constitutional importance, while High Courts under Article 226 have broader reach including enforcement of statutory rights.",
+    "ground_truth_sources": ["Article 32", "Article 226"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q076",
+    "question": "How does the Constitution define 'minority' and what protections do Articles 29 and 30 offer to minorities?",
+    "ground_truth_answer": "The Constitution does not explicitly define 'minority' but recognises minorities based on religion or language. Article 29 protects any section of citizens with a distinct language, script or culture from being denied admission to State-aided educational institutions on grounds of religion, race, caste or language. Article 30 specifically grants religious and linguistic minorities the right to establish and administer educational institutions of their choice. In granting aid, the State shall not discriminate against minority-managed institutions.",
+    "ground_truth_sources": ["Article 29", "Article 30"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q077",
+    "question": "What is the constitutional position of the Prime Minister and the Council of Ministers in relation to the President?",
+    "ground_truth_answer": "Under Article 74, there shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President in the exercise of his functions. The President shall act in accordance with such advice. The Council of Ministers is collectively responsible to the House of the People under Article 75(3). While executive power is formally vested in the President under Article 53, the real executive authority is exercised by the Council of Ministers headed by the Prime Minister.",
+    "ground_truth_sources": ["Article 74", "Article 75", "Article 53"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q078",
+    "question": "What is the scope of judicial review under the Indian Constitution?",
+    "ground_truth_answer": "Judicial review is the power of the judiciary to examine the constitutional validity of legislative and executive actions. Under Article 13, the Supreme Court and High Courts can declare laws void if they violate Fundamental Rights. Under Article 226, High Courts and under Article 32, the Supreme Court can issue writs. Article 131 grants the Supreme Court original jurisdiction in centre-state disputes. The Supreme Court in Kesavananda Bharati held that judicial review is part of the basic structure of the Constitution and cannot be abrogated.",
+    "ground_truth_sources": ["Article 13", "Article 32", "Article 131", "Article 226"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q079",
+    "question": "What is the nature and significance of the Ninth Schedule of the Constitution?",
+    "ground_truth_answer": "The Ninth Schedule was added by the First Constitutional Amendment Act, 1951 to place certain laws beyond judicial review. Laws placed in the Ninth Schedule cannot ordinarily be challenged in courts on grounds of violation of Fundamental Rights. However, the Supreme Court in I.R. Coelho v. State of Tamil Nadu (2007) held that laws inserted into the Ninth Schedule after 24 April 1973 (the date of Kesavananda Bharati judgment) can be challenged if they violate the basic structure of the Constitution.",
+    "ground_truth_sources": ["Article 31B"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q080",
+    "question": "What does 'secularism' mean in the Indian constitutional context?",
+    "ground_truth_answer": "The word 'secular' was inserted into the Preamble by the 42nd Constitutional Amendment in 1976. In the Indian context, secularism does not mean irreligion or hostility to religion but equal treatment of all religions by the State. The Constitution guarantees freedom of religion under Articles 25 to 28, prohibits religious discrimination under Articles 15 and 16, abolishes titles including religious ones under Article 18, and prohibits religious instruction in State-funded schools under Article 28. The State must maintain equal distance from all religions.",
+    "ground_truth_sources": ["Preamble", "Article 25", "Article 26", "Article 27", "Article 28"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q081",
+    "question": "What does Article 51A say about the Fundamental Duties of citizens and are they enforceable?",
+    "ground_truth_answer": "Article 51A lists eleven Fundamental Duties for every citizen of India, including duties such as abiding by the Constitution, cherishing the national flag and anthem, defending the country, promoting harmony, protecting the environment, and developing scientific temper. Fundamental Duties are not enforceable by courts — there is no direct legal sanction for their violation within the Constitution. However, Parliament may enact legislation to implement them, and courts may use them as an aid in interpreting laws.",
+    "ground_truth_sources": ["Article 51A"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q082",
+    "question": "What is the constitutional basis for federalism in India and how is it different from classical federal models?",
+    "ground_truth_answer": "India follows a quasi-federal model. Article 1 describes India as a Union of States rather than a federation, emphasising the indestructibility of the Union. The Seventh Schedule divides legislative powers between Union (List I), State (List II), and Concurrent (List III) Lists under Article 246. However, the Constitution gives the Union overriding powers during emergencies (Articles 352-360), allows Parliament to legislate on State subjects in national interest (Article 249), and permits President's Rule (Article 356). This makes India a federal structure with a strong unitary bias, unlike classical federations such as the USA.",
+    "ground_truth_sources": ["Article 1", "Article 246", "Article 249", "Article 352", "Article 356"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q083",
+    "question": "What does Article 74 say about the relationship between the President and the Council of Ministers, and is the President bound by ministerial advice?",
+    "ground_truth_answer": "Article 74(1) provides that there shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President, and the President shall, in the exercise of his functions, act in accordance with such advice. The 44th Amendment Act, 1978 added a proviso empowering the President to require the Council to reconsider its advice, but after reconsideration the President is bound to act in accordance with that advice. Thus, the President is a constitutional head whose functions are exercised on the binding advice of the Council of Ministers.",
+    "ground_truth_sources": ["Article 74"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q084",
+    "question": "What is the relationship between the right to equality under Article 14 and the doctrine of reasonable classification?",
+    "ground_truth_answer": "Article 14 guarantees equality before law and equal protection of laws. It does not prohibit all classification but only arbitrary or unreasonable classification. The Supreme Court has held that a classification is permissible if it satisfies two conditions: first, the classification must be founded on an intelligible differentia that distinguishes persons or things grouped together from others left out; and second, the differentia must have a rational relation to the object sought to be achieved by the law.",
+    "ground_truth_sources": ["Article 14"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q085",
+    "question": "What constitutional provisions protect the independence of the judiciary?",
+    "ground_truth_answer": "Several provisions protect judicial independence. Judges of the Supreme Court and High Courts are appointed by the President after consultation with senior judges (Articles 124 and 217), ensuring insulation from purely political appointments. They can only be removed through a difficult impeachment process requiring a special majority in Parliament (Article 124(4)). Their salaries are charged to the Consolidated Fund of India and are not subject to vote in Parliament (Articles 125 and 221). After retirement, Supreme Court Judges cannot practise in courts below the Supreme Court (Article 124(7)), and High Court Judges cannot practise in their own High Court (Article 220).",
+    "ground_truth_sources": ["Article 124", "Article 125", "Article 217", "Article 220", "Article 221"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q086",
+    "question": "How do Articles 14, 19, and 21 together form the 'golden triangle' of Fundamental Rights?",
+    "ground_truth_answer": "Articles 14, 19, and 21 are collectively called the golden triangle because they are interrelated and mutually reinforcing. Article 14 guarantees equality before law, Article 19 guarantees six freedoms including speech and movement, and Article 21 protects life and personal liberty. The Supreme Court in Maneka Gandhi v. Union of India held that any law or State action curtailing Article 21 must also pass the tests of Articles 14 and 19 — it must be non-arbitrary (Article 14) and not impose unreasonable restrictions on freedoms (Article 19). No fundamental right can be read in isolation from the others.",
+    "ground_truth_sources": ["Article 14", "Article 19", "Article 21"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q087",
+    "question": "How do Articles 32, 131, and 226 together create a comprehensive system of constitutional remedies in India?",
+    "ground_truth_answer": "Article 32 grants citizens a Fundamental Right to move the Supreme Court for enforcement of Fundamental Rights, with the Court empowered to issue writs. Article 226 grants High Courts the power to issue writs for enforcement of Fundamental Rights as well as for any other purpose, giving wider jurisdiction than Article 32. Article 131 grants the Supreme Court exclusive original jurisdiction over disputes between the Union and States or between States inter se. Together, these three articles create a layered system: High Courts provide accessible first-tier constitutional remedies, the Supreme Court provides the final and authoritative remedy for Fundamental Rights, and Article 131 provides a unique forum for federal disputes.",
+    "ground_truth_sources": ["Article 32", "Article 131", "Article 226"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q088",
+    "question": "How do Articles 352, 356, and 360 differ in their grounds, scope and effect on the federal structure?",
+    "ground_truth_answer": "Article 352 (National Emergency) is proclaimed when the security of India is threatened by war, external aggression, or armed rebellion. During this, Parliament can legislate on State subjects (Article 353) and Article 19 freedoms are suspended (Article 358). Article 356 (President's Rule/State Emergency) is invoked when a State's constitutional machinery breaks down; the President assumes the State government's functions and Parliament legislates for that State. Article 360 (Financial Emergency) is declared when India's or a State's financial stability is threatened; the President may direct States to reduce salaries and reserve Money Bills for Parliament's consideration. All three fundamentally alter the federal balance in favour of the Centre, with Article 352 being the most far-reaching.",
+    "ground_truth_sources": ["Article 352", "Article 353", "Article 356", "Article 358", "Article 360"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q089",
+    "question": "How do Articles 109, 110, and 112 interact in the legislative process for the Union Budget?",
+    "ground_truth_answer": "Article 112 requires the President to present the Annual Financial Statement (budget) before both Houses of Parliament. The Appropriation and Finance Bills that follow are Money Bills as defined in Article 110, since they deal with taxation and appropriation of money from the Consolidated Fund. Under Article 109, Money Bills can only be introduced in the Lok Sabha; the Rajya Sabha can only make recommendations within fourteen days and the Lok Sabha may accept or reject them. This ensures that the elected lower house has financial supremacy, with the Rajya Sabha playing only a recommendatory role.",
+    "ground_truth_sources": ["Article 109", "Article 110", "Article 112"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q090",
+    "question": "What constitutional provisions together safeguard an accused person from arrest to trial?",
+    "ground_truth_answer": "Multiple articles protect an accused person. Article 20 protects against ex post facto punishment, double jeopardy, and self-incrimination. Article 21 guarantees that no person shall be deprived of life or liberty except according to procedure established by law, which courts have interpreted to include the right to a fair trial. Article 22 provides the right to be informed of grounds of arrest, right to legal counsel, and the requirement of production before a magistrate within 24 hours. Article 39A directs the State to provide free legal aid to those who cannot afford it. Together, these form a constitutional shield for the accused from the moment of arrest through the trial process.",
+    "ground_truth_sources": ["Article 20", "Article 21", "Article 22", "Article 39A"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q091",
+    "question": "How do Articles 245, 246, and the Seventh Schedule together distribute legislative powers between the Union and States?",
+    "ground_truth_answer": "Article 245 establishes the territorial extent of legislative power — Parliament may legislate for the whole of India and State Legislatures for their respective States. Article 246 then distributes subject-matter jurisdiction by reference to the three lists in the Seventh Schedule. List I (Union List) has 98 subjects on which only Parliament can legislate. List II (State List) has 59 subjects reserved for States. List III (Concurrent List) has 52 subjects on which both can legislate, but Parliamentary law prevails in case of repugnancy. In case of any doubt about a subject's classification, the residuary power under Article 248 lies with Parliament.",
+    "ground_truth_sources": ["Article 245", "Article 246", "Article 248"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q092",
+    "question": "How do Articles 25, 26, 27, and 28 together define the scope of religious freedom and its limits in India?",
+    "ground_truth_answer": "Article 25 grants individuals freedom of conscience and the right to profess, practise, and propagate religion, subject to public order, morality, and health. Article 26 grants religious denominations the right to manage their own affairs in religious matters and to establish and maintain religious institutions. Article 27 prohibits compelling any person to pay taxes specifically for the promotion of any particular religion. Article 28 prohibits religious instruction in State-funded educational institutions, though purely State-aided (but not State-managed) institutions may provide optional religious instruction. Together, these create a framework of personal religious freedom, denominational autonomy, and State neutrality on religion.",
+    "ground_truth_sources": ["Article 25", "Article 26", "Article 27", "Article 28"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q093",
+    "question": "How do Articles 54, 55, 66, and 67 govern the election and removal of the President and Vice-President?",
+    "ground_truth_answer": "Article 54 provides that the President is elected by an electoral college of elected members of both Houses of Parliament and elected members of State Legislative Assemblies. Article 55 prescribes the manner of election ensuring uniformity of representation between States and parity between the Union and States. The Vice-President is elected under Article 66 by members of both Houses of Parliament assembled at a joint sitting. Article 67 states that the Vice-President holds office for five years but may be removed by a resolution of the Rajya Sabha passed by a majority and agreed to by the Lok Sabha. The President is removed only through impeachment under Article 61 for violation of the Constitution.",
+    "ground_truth_sources": ["Article 54", "Article 55", "Article 61", "Article 66", "Article 67"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q094",
+    "question": "How do Articles 124, 217, and 222 together govern the appointment and transfer of Judges of the Supreme Court and High Courts?",
+    "ground_truth_answer": "Article 124 provides that Judges of the Supreme Court are appointed by the President after consultation with such Judges of the Supreme Court and of the High Courts as the President may deem necessary, and in the case of a Judge other than the Chief Justice, the Chief Justice of India shall always be consulted. Article 217 applies a similar procedure for appointment of High Court Judges, requiring consultation with the Chief Justice of India, the Governor of the State, and the Chief Justice of the High Court. Article 222 empowers the President, after consultation with the Chief Justice of India, to transfer a Judge from one High Court to another. The collegium system, developed through judicial decisions, now largely determines these appointments.",
+    "ground_truth_sources": ["Article 124", "Article 217", "Article 222"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q095",
+    "question": "How do Articles 14, 15, 16, 17, and 18 together constitute the right to equality under the Constitution?",
+    "ground_truth_answer": "The right to equality is spread across Articles 14 to 18. Article 14 guarantees equality before law and equal protection of laws — the general guarantee. Article 15 prohibits discrimination on specific grounds (religion, race, caste, sex, place of birth) but permits special provisions for women, children, and socially/educationally backward classes. Article 16 extends equality to public employment and permits reservations for backward classes. Article 17 abolishes untouchability in all forms. Article 18 abolishes titles other than military or academic distinctions. Together, they form a comprehensive code of equality addressing both formal legal equality and substantive social equality.",
+    "ground_truth_sources": ["Article 14", "Article 15", "Article 16", "Article 17", "Article 18"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q096",
+    "question": "How do Articles 79, 80, 81, 83, and 85 together define the structure and functioning of Parliament?",
+    "ground_truth_answer": "Article 79 defines Parliament as consisting of the President and two Houses. Article 80 constitutes the Rajya Sabha with a maximum of 250 members, 12 nominated by the President. Article 81 constitutes the Lok Sabha with a maximum of 552 members chosen by direct election. Article 83 fixes the duration of the Lok Sabha at five years (Rajya Sabha is a permanent House not subject to dissolution). Article 85 empowers the President to summon, prorogue, and dissolve the Lok Sabha. Together, these articles establish the composition, permanence or otherwise, and operational mechanism of Parliament.",
+    "ground_truth_sources": ["Article 79", "Article 80", "Article 81", "Article 83", "Article 85"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q097",
+    "question": "How do Articles 153, 154, 155, 156, 161, and 163 together define the office and powers of the Governor of a State?",
+    "ground_truth_answer": "Article 153 requires every State to have a Governor. Article 154 vests the executive power of the State in the Governor. Article 155 provides that the Governor is appointed by the President by warrant under his hand and seal. Article 156 fixes the term at five years subject to the pleasure of the President. Article 161 empowers the Governor to grant pardons, reprieves, and remissions for offences under State law. Article 163 requires a Council of Ministers to aid and advise the Governor, who acts on their advice except where he is required to act in his discretion. Together, these establish the Governor as a constitutional head of the State, appointed and removable by the Centre.",
+    "ground_truth_sources": ["Article 153", "Article 154", "Article 155", "Article 156", "Article 161", "Article 163"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q098",
+    "question": "How do Articles 243B, 243C, 243D, and 243E together establish the Panchayati Raj system?",
+    "ground_truth_answer": "Article 243B mandates the constitution of Panchayats at the village, intermediate, and district levels in every State. Article 243C governs their composition, providing that the ratio of population to seats shall be uniform throughout the State. Article 243D mandates reservation of seats for Scheduled Castes, Scheduled Tribes, and not less than one-third of seats for women in each Panchayat. Article 243E fixes the duration of every Panchayat at five years, and in the event of dissolution, fresh elections must be held within six months. Together, these articles constitutionalise grassroots democratic governance through the 73rd Constitutional Amendment, 1992.",
+    "ground_truth_sources": ["Article 243B", "Article 243C", "Article 243D", "Article 243E"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q099",
+    "question": "How do Articles 356, 357, and 365 interact in the context of President's Rule?",
+    "ground_truth_answer": "Article 356 empowers the President to proclaim President's Rule upon being satisfied that constitutional machinery in a State has failed, based on Governor's report or otherwise. Article 357 provides that when such a Proclamation is in operation, Parliament may confer on the President the power to make laws with respect to matters in the State List, and such laws may confer powers on authorities other than the State Legislature. Article 365 provides that where a State fails to comply with or give effect to directions given by the Union under the Constitution, it shall be lawful for the President to hold that a situation has arisen in which the State government cannot be carried on in accordance with the Constitution, thereby triggering Article 356. Together, these articles give the Union significant leverage over States that do not comply with central directions.",
+    "ground_truth_sources": ["Article 356", "Article 357", "Article 365"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q100",
+    "question": "How do Articles 368, the basic structure doctrine, and Articles 13 and 32 together limit the amending power of Parliament?",
+    "ground_truth_answer": "Article 368 grants Parliament the power to amend the Constitution by a special majority, and certain amendments also require State ratification. However, the Supreme Court in Kesavananda Bharati (1973) held that Article 368 does not permit Parliament to destroy the basic structure of the Constitution. Article 13(2) prohibits the State from making any law abridging Fundamental Rights and declares such laws void — initially debated as to whether constitutional amendments were 'laws' under Article 13, but the Court ultimately held amendments are distinct from ordinary laws while still being constrained by basic structure. Article 32, itself a Fundamental Right, ensures that citizens can always challenge legislative excess before the Supreme Court. Together, these provisions mean Parliament's amending power, though wide, is not unlimited.",
+    "ground_truth_sources": ["Article 13", "Article 32", "Article 368"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q101",
+    "question": "How does the Constitution under Articles 249 and 250 allow Parliament to legislate on State List subjects?",
+    "ground_truth_answer": "Article 249 empowers Parliament to legislate on any State List subject if the Rajya Sabha passes a resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest. Such a resolution remains in force for one year and may be renewed. Article 250 empowers Parliament to legislate on State List subjects during a National Emergency proclaimed under Article 352. In both cases, the State legislatures do not lose their powers, but Parliamentary law prevails over State law in case of repugnancy during the period for which Parliamentary legislation operates.",
+    "ground_truth_sources": ["Article 249", "Article 250"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q102",
+    "question": "What role do Articles 72 and 161 play in the criminal justice system and how do they differ?",
+    "ground_truth_answer": "Article 72 empowers the President of India to grant pardons, reprieves, respites or remissions of punishment, or to suspend, remit or commute the sentence of any person convicted of any offence in all cases where the sentence is a sentence of death, or where the offence is against a Union law, or where the punishment is by a Court Martial. Article 161 grants similar pardoning power to the Governor of a State, but only in respect of offences against laws relating to matters within the State's executive power. The key difference is that the President can pardon death sentences while the Governor cannot — that power lies exclusively with the President under Article 72.",
+    "ground_truth_sources": ["Article 72", "Article 161"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q103",
+    "question": "What does Article 19(1)(g) guarantee and what restrictions can be imposed under Article 19(6)?",
+    "ground_truth_answer": "Article 19(1)(g) guarantees to all citizens the right to practise any profession or to carry on any occupation, trade or business. Article 19(6) permits the State to impose reasonable restrictions on this right in the interests of the general public. It also expressly allows the State to prescribe professional or technical qualifications for carrying on any profession or occupation, and to carry on any trade or business to the exclusion of citizens (i.e., State monopoly).",
+    "ground_truth_sources": ["Article 19"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q104",
+    "question": "What does Article 51 direct the State to endeavour in the field of international relations?",
+    "ground_truth_answer": "Article 51 directs the State to endeavour to promote international peace and security, to maintain just and honourable relations between nations, to foster respect for international law and treaty obligations, and to encourage settlement of international disputes by arbitration.",
+    "ground_truth_sources": ["Article 51"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q105",
+    "question": "What does Article 280 establish and what is its composition?",
+    "ground_truth_answer": "Article 280 establishes the Finance Commission. The President shall, within two years from the commencement of the Constitution and thereafter at the expiration of every fifth year or earlier, constitute a Finance Commission consisting of a Chairman and four other members. The Finance Commission recommends the distribution of net tax proceeds between the Union and States and the principles governing grants-in-aid of the revenues of States out of the Consolidated Fund of India.",
+    "ground_truth_sources": ["Article 280"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q106",
+    "question": "What is the constitutional status of the Attorney General of India under Article 76?",
+    "ground_truth_answer": "Article 76 provides that the President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be the Attorney General for India. The Attorney General shall give advice to the Government of India upon such legal matters and perform such other duties of a legal character as may be assigned to him by the President. The Attorney General shall have the right of audience in all courts in India.",
+    "ground_truth_sources": ["Article 76"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q107",
+    "question": "What does Article 311 protect civil servants from?",
+    "ground_truth_answer": "Article 311 protects civil servants employed in civil capacities under the Union or a State. It provides that no such person shall be dismissed or removed by an authority subordinate to that which appointed him, and that no such person shall be dismissed, removed, or reduced in rank without being given a reasonable opportunity to show cause against the action proposed. However, this protection can be denied on grounds of national security, where an inquiry is not reasonably practicable, or where it is not expedient in the interest of the State.",
+    "ground_truth_sources": ["Article 311"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q108",
+    "question": "What does Article 338 establish and what is its mandate?",
+    "ground_truth_answer": "Article 338 establishes the National Commission for Scheduled Castes. The Commission shall investigate and monitor all matters relating to the constitutional and other legal safeguards for Scheduled Castes, inquire into complaints regarding their deprivation of rights, and advise on the planning process for socio-economic development of Scheduled Castes. It submits reports to the President annually or as the Commission deems fit.",
+    "ground_truth_sources": ["Article 338"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q109",
+    "question": "What does Article 335 provide regarding the claims of Scheduled Castes and Scheduled Tribes to services?",
+    "ground_truth_answer": "Article 335 provides that the claims of the members of the Scheduled Castes and the Scheduled Tribes shall be taken into consideration, consistently with the maintenance of efficiency of administration, in the making of appointments to services and posts in connection with the affairs of the Union or of a State.",
+    "ground_truth_sources": ["Article 335"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q110",
+    "question": "What does Article 239AA provide for the National Capital Territory of Delhi?",
+    "ground_truth_answer": "Article 239AA provides that the National Capital Territory of Delhi shall have a Legislative Assembly and a Council of Ministers. However, in matters of public order, police, and land, the Union (Parliament) retains legislative and executive authority. Laws made by the Delhi Assembly on subjects in the State or Concurrent List (except public order, police, and land) require the assent of the Lieutenant Governor, who acts on the advice of the Council of Ministers except on matters where he must refer to the President.",
+    "ground_truth_sources": ["Article 239AA"],
+    "type": "direct_lookup"
+  }
+]

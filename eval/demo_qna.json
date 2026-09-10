@@ -1,0 +1,37 @@
+[
+  {
+    "id": "q001",
+    "question": "What does Article 21 of the Constitution guarantee?",
+    "ground_truth_answer": "Article 21 guarantees the right to life and personal liberty to all persons. No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "ground_truth_sources": ["Article 21"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q002",
+    "question": "What are the reasonable restrictions on freedom of speech under the Constitution?",
+    "ground_truth_answer": "Article 19(2) permits the State to impose reasonable restrictions on freedom of speech and expression on grounds including sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, and incitement to an offence.",
+    "ground_truth_sources": ["Article 19", "Article 19(2)"],
+    "type": "conceptual"
+  },
+  {
+    "id": "q003",
+    "question": "How do Articles 14, 19, and 21 form the golden triangle of the Constitution?",
+    "ground_truth_answer": "Articles 14 (right to equality), 19 (fundamental freedoms), and 21 (right to life and personal liberty) together form the golden triangle. Courts have held that any law affecting one of these rights must satisfy the requirements of all three articles.",
+    "ground_truth_sources": ["Article 14", "Article 19", "Article 21"],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q004",
+    "question": "What is the procedure for amendment of the Constitution under Article 368?",
+    "ground_truth_answer": "Article 368 provides that Parliament may amend the Constitution by introducing a Bill in either House of Parliament. The Bill must be passed by each House by a majority of total membership and by a majority of not less than two-thirds of members present and voting. Certain amendments also require ratification by at least half of State Legislatures.",
+    "ground_truth_sources": ["Article 368"],
+    "type": "direct_lookup"
+  },
+  {
+    "id": "q005",
+    "question": "What are the fundamental duties of Indian citizens under Article 51A?",
+    "ground_truth_answer": "Article 51A lists fundamental duties of every citizen including: to abide by the Constitution, cherish national ideals, uphold sovereignty and integrity of India, defend the country, promote harmony, preserve culture, protect the environment, develop scientific temper, safeguard public property, and strive for excellence.",
+    "ground_truth_sources": ["Article 51A"],
+    "type": "conceptual"
+  }
+]

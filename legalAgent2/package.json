@@ -1,0 +1,32 @@
+{
+  "type": "module",
+  "scripts": {
+    "retrieve": "tsx retrieve.ts",
+    "retrieve2": "tsx retrieve2.ts",
+    "dev": "tsx --watch retrieve.ts",
+    "build": "tsc",
+    "start": "node dist/retrieve.js"
+  },
+  "dependencies": {
+    "@dqbd/tiktoken": "^1.0.22",
+    "@qdrant/js-client-rest": "^1.15.1",
+    "axios": "^1.13.1",
+    "dotenv": "^16.4.7",
+    "gpt-tokenizer": "^3.2.0",
+    "neo4j-driver": "^6.0.1",
+    "openai": "^6.7.0",
+    "qdrant-client": "^0.0.1",
+    "readline": "^1.3.0",
+    "stream-json": "^1.9.1",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "@types/stream-json": "^1.7.8",
+    "@types/uuid": "^10.0.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+  
+}
+
